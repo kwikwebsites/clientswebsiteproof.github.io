@@ -1,62 +1,67 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1576875611799">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1576893926641">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_eng.css" crc="56558160" ref="the-gallery:the-penthouse:index:about-us:location:the-master-plan-apt-1:the-development:the-apartments"/>
-    <file name="nomq_preview_master_eng.css" crc="3955570595" ref="the-gallery:the-penthouse:index:about-us:location:the-master-plan-apt-1:the-development:the-apartments"/>
-    <file name="the-gallery.css" crc="75228067" ref="the-gallery"/>
-    <file name="nomq_the-gallery.css" crc="3825484136" ref="the-gallery"/>
-    <file name="the-penthouse.css" crc="487823870" ref="the-penthouse"/>
-    <file name="nomq_the-penthouse.css" crc="3997106224" ref="the-penthouse"/>
+    <file name="master_eng.css" crc="3761348372" ref="the-gallery:the-penthouse:index:about-us:location:the-master-plan-apt-1:the-development:-apartments"/>
+    <file name="nomq_preview_master_eng.css" crc="3955570595" ref="the-gallery:the-penthouse:index:about-us:location:the-master-plan-apt-1:the-development:-apartments"/>
+    <file name="the-gallery.css" crc="114604120" ref="the-gallery"/>
+    <file name="nomq_the-gallery.css" crc="305756099" ref="the-gallery"/>
+    <file name="the-penthouse.css" crc="59843762" ref="the-penthouse"/>
+    <file name="nomq_the-penthouse.css" crc="114714331" ref="the-penthouse"/>
     <file name="iefonts_the-penthouse.css" crc="3824530138" ref="the-penthouse"/>
-    <file name="index.css" crc="3893448348" ref="index"/>
-    <file name="nomq_index.css" crc="235753431" ref="index"/>
+    <file name="index.css" crc="341269123" ref="index"/>
+    <file name="nomq_index.css" crc="251545840" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="about-us.css" crc="4179513464" ref="about-us"/>
-    <file name="nomq_about-us.css" crc="270056936" ref="about-us"/>
+    <file name="about-us.css" crc="26993938" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="3844748533" ref="about-us"/>
     <file name="iefonts_about-us.css" crc="3824530138" ref="about-us"/>
-    <file name="location.css" crc="109381138" ref="location"/>
-    <file name="nomq_location.css" crc="408980280" ref="location"/>
+    <file name="location.css" crc="3886792180" ref="location"/>
+    <file name="nomq_location.css" crc="4047886078" ref="location"/>
     <file name="iefonts_location.css" crc="3824530138" ref="location"/>
-    <file name="the-master-plan-apt-1.css" crc="3931811730" ref="the-master-plan-apt-1"/>
-    <file name="nomq_the-master-plan-apt-1.css" crc="343264421" ref="the-master-plan-apt-1"/>
+    <file name="the-master-plan-apt-1.css" crc="4111841249" ref="the-master-plan-apt-1"/>
+    <file name="nomq_the-master-plan-apt-1.css" crc="3889537595" ref="the-master-plan-apt-1"/>
     <file name="iefonts_the-master-plan-apt-1.css" crc="3824530138" ref="the-master-plan-apt-1"/>
-    <file name="the-development.css" crc="425249226" ref="the-development"/>
-    <file name="nomq_the-development.css" crc="360856425" ref="the-development"/>
+    <file name="the-development.css" crc="3906434749" ref="the-development"/>
+    <file name="nomq_the-development.css" crc="3845680182" ref="the-development"/>
     <file name="iefonts_the-development.css" crc="3824530138" ref="the-development"/>
-    <file name="the-apartments.css" crc="4287769887" ref="the-apartments"/>
-    <file name="nomq_the-apartments.css" crc="4110326457" ref="the-apartments"/>
+    <file name="the-apartments.css" crc="339630509" ref="the-apartments"/>
+    <file name="nomq_the-apartments.css" crc="403494590" ref="the-apartments"/>
     <file name="iefonts_the-apartments.css" crc="3824530138" ref="the-apartments"/>
+    <file name="master_eng-copy.css" crc="277518241" ref="the-apartments"/>
+    <file name="nomq_preview_master_eng-copy.css" crc="4224464759" ref="the-apartments"/>
+    <file name="-apartments.css" crc="468085390" ref="-apartments"/>
+    <file name="nomq_-apartments.css" crc="485514077" ref="-apartments"/>
+    <file name="iefonts_-apartments.css" crc="3824530138" ref="-apartments"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us"/>
-    <file name="museutils.js" crc="3939489907" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us"/>
-    <file name="whatinput.js" crc="86476730" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us"/>
-    <file name="webpro.js" crc="3856315280" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us"/>
-    <file name="touchswipe.js" crc="3888935200" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us"/>
-    <file name="musewpdisclosure.js" crc="4294234138" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us"/>
-    <file name="jquery.museresponsive.js" crc="95814420" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us"/>
-    <file name="require.js" crc="4177726516" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments"/>
+    <file name="museutils.js" crc="3939489907" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments"/>
+    <file name="whatinput.js" crc="86476730" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments"/>
+    <file name="webpro.js" crc="3856315280" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments"/>
+    <file name="require.js" crc="4177726516" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="the-master-plan-apt-1:location:the-gallery"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us"/>
-    <file name="chevron-arrow-down.svg" crc="4286692523" seo="true" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us">
+    <file name="blank.gif" crc="4208392903" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments"/>
+    <file name="chevron-arrow-down.svg" crc="4286692523" seo="true" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments">
       <caption webpage="the-penthouse" alt=""/>
       <caption webpage="the-penthouse" alt=""/>
       <caption webpage="the-penthouse" alt=""/>
       <caption webpage="the-penthouse" alt=""/>
       <caption webpage="the-penthouse" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
@@ -77,19 +82,24 @@
       <caption webpage="the-gallery" alt=""/>
       <caption webpage="the-gallery" alt=""/>
       <caption webpage="the-gallery" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
     </file>
     <file name="chevron-arrow-down_poster_.png" crc="4104937641" ref="index"/>
-    <file name="hedone logo ideas_white-04-crop-u158728.png" crc="391462827" seo="true" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us">
+    <file name="hedone logo ideas_white-04-crop-u158728.png" crc="301368682" seo="true" ref="index:the-master-plan-apt-1:the-penthouse:location:the-development:the-gallery:about-us:-apartments">
       <caption webpage="the-penthouse" alt=""/>
       <caption webpage="the-penthouse" alt=""/>
       <caption webpage="the-penthouse" alt=""/>
@@ -98,14 +108,14 @@
       <caption webpage="the-penthouse" alt=""/>
       <caption webpage="the-penthouse" alt=""/>
       <caption webpage="the-penthouse" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
@@ -138,14 +148,14 @@
       <caption webpage="the-gallery" alt=""/>
       <caption webpage="the-gallery" alt=""/>
       <caption webpage="the-gallery" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
@@ -154,6 +164,14 @@
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
     </file>
     <file name="159777949_home_final.jpg" crc="3957896900" seo="true" ref="index:the-master-plan-apt-1">
       <caption webpage="index" alt=""/>
@@ -173,7 +191,7 @@
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us"/>
+    <file name="loading.gif" crc="3815509949" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments"/>
     <file name="floor plan apt 1_web-01.png" crc="511769569" ref="the-master-plan-apt-1">
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
@@ -277,7 +295,7 @@
     <file name="floor plan apt 8_web-01-u172856-fr2.jpg" crc="3945352578" ref="the-master-plan-apt-1"/>
     <file name="floor plan penthouse level 1_web-u172974-fr.jpg" crc="3941038490" ref="the-master-plan-apt-1"/>
     <file name="floor plan penthouse level 2_web-01-u172967-fr2.jpg" crc="3947627635" ref="the-master-plan-apt-1"/>
-    <file name="hedone properties-6th.jpg" crc="3896818560" seo="true" ref="the-apartments">
+    <file name="hedone properties-6th.jpg" crc="3896818560" seo="true" ref="the-apartments:-apartments">
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
@@ -286,6 +304,15 @@
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
+      <caption webpage="-apartments" alt=""/>
     </file>
     <file name="hedone properties-7th.jpg" crc="63809460" seo="true" ref="the-penthouse">
       <caption webpage="the-penthouse" alt=""/>
@@ -317,14 +344,6 @@
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
     </file>
-    <file name="map c_final_google map-01.jpg" crc="3989899718" ref="location"/>
-    <file name="map c_final_google map-01-u147121-fr.jpg" crc="4037752771" ref="location"/>
-    <file name="map c_final_google map-01-u147121-fr2.jpg" crc="4040179416" ref="location"/>
-    <file name="map c_final_google map-01-u147121-fr3.jpg" crc="418021042" ref="location"/>
-    <file name="map c_final_google map-01-u147121-fr4.jpg" crc="3909511078" ref="location"/>
-    <file name="map c_final_google map-01-u147121-fr5.jpg" crc="131465900" ref="location"/>
-    <file name="map c_final_google map-01-u147121-fr6.jpg" crc="487588108" ref="location"/>
-    <file name="map c_final_google map-01-u147121-fr7.jpg" crc="3816650012" ref="location"/>
     <file name="hedone properties-first.jpg" crc="447828362" seo="true" ref="the-development">
       <caption webpage="the-development" alt=""/>
       <caption webpage="the-development" alt=""/>
@@ -465,13 +484,32 @@
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
     </file>
+    <file name="hedone logo ideas_white-04-crop-u242373.png" crc="301368682" seo="true" ref="the-apartments">
+      <caption webpage="the-apartments" alt=""/>
+      <caption webpage="the-apartments" alt=""/>
+      <caption webpage="the-apartments" alt=""/>
+      <caption webpage="the-apartments" alt=""/>
+      <caption webpage="the-apartments" alt=""/>
+      <caption webpage="the-apartments" alt=""/>
+      <caption webpage="the-apartments" alt=""/>
+      <caption webpage="the-apartments" alt=""/>
+    </file>
+    <file name="map c_final-01.jpg" crc="3833434713" ref="location"/>
+    <file name="map c_final-01-u147121-fr.jpg" crc="3805168572" ref="location"/>
+    <file name="map c_final-01-u147121-fr2.jpg" crc="3852170986" ref="location"/>
+    <file name="map c_final-01-u147121-fr3.jpg" crc="272079461" ref="location"/>
+    <file name="map c_final-01-u147121-fr4.jpg" crc="129969334" ref="location"/>
+    <file name="map c_final-01-u147121-fr5.jpg" crc="69435531" ref="location"/>
+    <file name="map c_final-01-u147121-fr6.jpg" crc="3911225645" ref="location"/>
+    <file name="map c_final-01-u147121-fr7.jpg" crc="53344179" ref="location"/>
   </folder>
-  <file name="index.html" crc="3959236645" seo="true" mt="1576873732747" redirect="true"/>
-  <file name="the-master-plan-apt-1.html" crc="97148418" seo="true" mt="1576871030838" redirect="true"/>
-  <file name="the-apartments.html" crc="4090231589" seo="true" mt="1576871030838" redirect="true"/>
-  <file name="the-penthouse.html" crc="301944365" seo="true" mt="1576871030838" redirect="true"/>
-  <file name="location.html" crc="484728144" seo="true" mt="1576875476336" redirect="true"/>
-  <file name="the-development.html" crc="61838661" seo="true" mt="1576871030838" redirect="true"/>
-  <file name="the-gallery.html" crc="4196086412" seo="true" mt="1576871030838" redirect="true"/>
-  <file name="about-us.html" crc="324843141" seo="true" mt="1576871030838" redirect="true"/>
+  <file name="index.html" crc="4291076335" seo="true" mt="1576893151870" redirect="true"/>
+  <file name="the-master-plan-apt-1.html" crc="4187464468" seo="true" mt="1576893151870" redirect="true"/>
+  <file name="the-apartments.html" crc="261515074" seo="true" mt="1576891098424" redirect="true"/>
+  <file name="the-penthouse.html" crc="4162184155" seo="true" mt="1576893151870" redirect="true"/>
+  <file name="location.html" crc="4191175" seo="true" mt="1576893151870" redirect="true"/>
+  <file name="the-development.html" crc="4248975707" seo="true" mt="1576893151870" redirect="true"/>
+  <file name="the-gallery.html" crc="4118516434" seo="true" mt="1576893151870" redirect="true"/>
+  <file name="about-us.html" crc="3786886948" seo="true" mt="1576893151870" redirect="true"/>
+  <file name="-apartments.html" crc="4228783713" seo="true" mt="1576893681367" redirect="true"/>
 </manifest>

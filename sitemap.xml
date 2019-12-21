@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bigonideas.co.uk/index.html</loc>
-    <lastmod>2019-12-20</lastmod>
+    <lastmod>2019-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>http://bigonideas.co.uk/the-master-plan-apt-1.html</loc>
-    <lastmod>2019-12-20</lastmod>
+    <lastmod>2019-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -32,22 +32,22 @@
   </url>
   <url>
     <loc>http://bigonideas.co.uk/the-apartments.html</loc>
-    <lastmod>2019-12-20</lastmod>
+    <lastmod>2019-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20properties-6th.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20properties-6th.jpg</image:loc>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u242373.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://bigonideas.co.uk/the-penthouse.html</loc>
-    <lastmod>2019-12-20</lastmod>
+    <lastmod>2019-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -65,7 +65,7 @@
   </url>
   <url>
     <loc>http://bigonideas.co.uk/location.html</loc>
-    <lastmod>2019-12-20</lastmod>
+    <lastmod>2019-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>http://bigonideas.co.uk/the-development.html</loc>
-    <lastmod>2019-12-20</lastmod>
+    <lastmod>2019-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -95,7 +95,7 @@
   </url>
   <url>
     <loc>http://bigonideas.co.uk/the-gallery.html</loc>
-    <lastmod>2019-12-20</lastmod>
+    <lastmod>2019-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -110,7 +110,7 @@
   </url>
   <url>
     <loc>http://bigonideas.co.uk/about-us.html</loc>
-    <lastmod>2019-12-20</lastmod>
+    <lastmod>2019-12-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -121,6 +121,21 @@
     </image:image>
     <image:image>
       <image:loc>http://bigonideas.co.uk/images/hedone%20properties5th.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/-apartments.html</loc>
+    <lastmod>2019-12-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20properties-6th.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
