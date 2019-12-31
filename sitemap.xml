@@ -6,40 +6,46 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://bigonideas.co.uk/images/159777949_home_final.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/159777949_home_final.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://bigonideas.co.uk/the-master-plan-apt-1.html</loc>
-    <lastmod>2019-12-21</lastmod>
+    <lastmod>2019-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/159777949_home_final.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/159777949_home_final.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20penthouse%20level%201_web-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20penthouse%20level%202_web-01.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://bigonideas.co.uk/the-apartments.html</loc>
-    <lastmod>2019-12-21</lastmod>
+    <lastmod>2019-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u242373.png</image:loc>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20properties%20logo_white.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bigonideas.co.uk/images/hedone%20properties-6th.jpg</image:loc>
@@ -57,10 +63,10 @@
       <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20properties-7th.jpg</image:loc>
+      <image:loc>http://bigonideas.co.uk/images/pent%201_cropped.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone%20properties-8th.jpg</image:loc>
+      <image:loc>http://bigonideas.co.uk/images/pent%202_cropped.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -95,7 +101,7 @@
   </url>
   <url>
     <loc>http://bigonideas.co.uk/the-gallery.html</loc>
-    <lastmod>2019-12-21</lastmod>
+    <lastmod>2019-12-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -136,6 +142,24 @@
     </image:image>
     <image:image>
       <image:loc>http://bigonideas.co.uk/images/hedone%20properties-6th.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/untitled-22.html</loc>
+    <lastmod>2019-12-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone%20logo%20ideas_white-04-crop-u158728.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20penthouse%20level%201_web-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20penthouse%20level%202_web-01.png</image:loc>
     </image:image>
   </url>
 </urlset>
