@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1580947357015">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1581027863808">
   <folder name="css">
     <file name="site_global.css" crc="4007267860"/>
     <file name="master_eng.css" crc="4233981263" ref="the-penthouse:location:the-development:index:the-gallery:the-master-plan-apt-1:about-us"/>
@@ -65,8 +65,8 @@
     <file name="iefonts_location-ru.css" crc="3824530138" ref="location-ru"/>
     <file name="the-apartments.css" crc="4050888804" ref="the-apartments"/>
     <file name="nomq_the-apartments.css" crc="192252639" ref="the-apartments"/>
-    <file name="the-master-plan-apt-1-bg.css" crc="464540325" ref="the-master-plan-apt-1-bg"/>
-    <file name="nomq_the-master-plan-apt-1-bg.css" crc="478872481" ref="the-master-plan-apt-1-bg"/>
+    <file name="the-master-plan-apt-1-bg.css" crc="93603399" ref="the-master-plan-apt-1-bg"/>
+    <file name="nomq_the-master-plan-apt-1-bg.css" crc="486120107" ref="the-master-plan-apt-1-bg"/>
     <file name="iefonts_the-master-plan-apt-1-bg.css" crc="3824530138" ref="the-master-plan-apt-1-bg"/>
     <file name="the-gallery-ru.css" crc="500555895" ref="the-gallery-ru"/>
     <file name="nomq_the-gallery-ru.css" crc="3979174822" ref="the-gallery-ru"/>
@@ -665,7 +665,7 @@
     <file name="floor plan apt 7_web-01-u172720-fr.jpg" crc="362041031" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
     <file name="floor plan apt 8_web-01-u172856-fr.jpg" crc="3972404316" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
     <file name="floor plan penthouse level 1_web-01-u172974-fr.jpg" crc="4131212866" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
-    <file name="floor plan penthouse level 2_web-01-u172967-fr.jpg" crc="156384389" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan penthouse level 2_web-01-u172967-fr.jpg" crc="156384389" ref="the-master-plan-apt-1:the-master-plan-apt-1-ru"/>
     <file name="floor plan apt 1_web-01-u171855-fr2.jpg" crc="3834057504" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
     <file name="floor plan apt 2_web-01-u172083-fr2.jpg" crc="127327790" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
     <file name="floor plan apt 3_web-01-u172124-fr2.jpg" crc="4066208451" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
@@ -1010,6 +1010,8 @@
       <caption webpage="about-us-ru" alt=""/>
       <caption webpage="about-us-ru" alt=""/>
     </file>
+    <file name="floor plan penthouse level 2_web-01-u254453-fr.jpg" crc="187710177" ref="the-master-plan-apt-1-bg"/>
+    <file name="floor plan penthouse level 2_web-01-u254453-fr2.jpg" crc="3942973875" ref="the-master-plan-apt-1-bg"/>
   </folder>
   <file name="index.html" crc="241984626" seo="true" mt="1580504321681" redirect="true"/>
   <file name="the-master-plan-apt-1.html" crc="3940230190" seo="true" mt="1580504414787" redirect="true"/>
@@ -1021,7 +1023,7 @@
   <file name="about-us.html" crc="4287211852" seo="true" mt="1580504298646" redirect="true"/>
   <file name="home-bg.html" crc="195906244" seo="true" mt="1580506931526" redirect="true"/>
   <file name="about-us-bg.html" crc="415311693" seo="true" mt="1580943524931" redirect="true"/>
-  <file name="the-master-plan-apt-1-bg.html" crc="3937058094" seo="true" mt="1580944658670" redirect="true"/>
+  <file name="the-master-plan-apt-1-bg.html" crc="4089038557" seo="true" mt="1581027039260" redirect="true"/>
   <file name="the-development-bg.html" crc="4075253786" seo="true" mt="1580944278698" redirect="true"/>
   <file name="location-bg.html" crc="524099887" seo="true" mt="1580944204503" redirect="true"/>
   <file name="the-gallery-bg.html" crc="4138842954" seo="true" mt="1580506931526" redirect="true"/>
