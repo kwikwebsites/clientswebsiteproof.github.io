@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1581157184883">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1581160271899">
   <folder name="css">
     <file name="site_global.css" crc="4007267860"/>
     <file name="master_bg.css" crc="431265726" ref="the-gallery-bg:the-apartments-bg:home-bg:the-penthouse-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg"/>
@@ -15,7 +15,7 @@
     <file name="iefonts_the-development.css" crc="3824530138" ref="the-development"/>
     <file name="the-gallery-bg.css" crc="3891301375" ref="the-gallery-bg"/>
     <file name="nomq_the-gallery-bg.css" crc="509612027" ref="the-gallery-bg"/>
-    <file name="location-ru.css" crc="292175603" ref="location-ru"/>
+    <file name="location-ru.css" crc="3981427493" ref="location-ru"/>
     <file name="nomq_location-ru.css" crc="4000271854" ref="location-ru"/>
     <file name="iefonts_location-ru.css" crc="3824530138" ref="location-ru"/>
     <file name="the-gallery.css" crc="446438255" ref="the-gallery"/>
@@ -69,7 +69,7 @@
     <file name="location.css" crc="4032921165" ref="location"/>
     <file name="nomq_location.css" crc="3897048217" ref="location"/>
     <file name="iefonts_location.css" crc="3824530138" ref="location"/>
-    <file name="location-bg.css" crc="4190690120" ref="location-bg"/>
+    <file name="location-bg.css" crc="345130287" ref="location-bg"/>
     <file name="nomq_location-bg.css" crc="429120502" ref="location-bg"/>
   </folder>
   <folder name="scripts">
@@ -1043,7 +1043,7 @@
   <file name="about-us-bg.html" crc="3780137395" seo="true" mt="1581121958853" redirect="true"/>
   <file name="the-master-plan-apt-1-bg.html" crc="4184799595" seo="true" mt="1581153912282" redirect="true"/>
   <file name="the-development-bg.html" crc="3854586526" seo="true" mt="1581119094699" redirect="true"/>
-  <file name="location-bg.html" crc="101879445" seo="true" mt="1581118023471" redirect="true"/>
+  <file name="location-bg.html" crc="4287733596" seo="true" mt="1581159510941" redirect="true"/>
   <file name="the-gallery-bg.html" crc="3781834539" seo="true" mt="1581118023477" redirect="true"/>
   <file name="the-apartments-bg.html" crc="4275086271" seo="true" mt="1581118186331" redirect="true"/>
   <file name="the-penthouse-bg.html" crc="246539450" seo="true" mt="1581122003354" redirect="true"/>
@@ -1051,7 +1051,7 @@
   <file name="about-us-ru.html" crc="195916570" seo="true" mt="1581154647343" redirect="true"/>
   <file name="the-master-plan-apt-1-ru.html" crc="4232447702" seo="true" mt="1581122370841" redirect="true"/>
   <file name="the-development-ru.html" crc="4013899588" seo="true" mt="1581154942813" redirect="true"/>
-  <file name="location-ru.html" crc="174838247" seo="true" mt="1581155786219" redirect="true"/>
+  <file name="location-ru.html" crc="448185792" seo="true" mt="1581159465765" redirect="true"/>
   <file name="the-gallery-ru.html" crc="4021005048" seo="true" mt="1581118023527" redirect="true"/>
   <file name="the-penthouse-ru.html" crc="259918645" seo="true" mt="1581156418567" redirect="true"/>
   <file name="the-apartments-ru.html" crc="404112518" seo="true" mt="1581155941991" redirect="true"/>
