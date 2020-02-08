@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1581160271899">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1581162468262">
   <folder name="css">
     <file name="site_global.css" crc="4007267860"/>
     <file name="master_bg.css" crc="431265726" ref="the-gallery-bg:the-apartments-bg:home-bg:the-penthouse-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg"/>
@@ -69,8 +69,8 @@
     <file name="location.css" crc="4032921165" ref="location"/>
     <file name="nomq_location.css" crc="3897048217" ref="location"/>
     <file name="iefonts_location.css" crc="3824530138" ref="location"/>
-    <file name="location-bg.css" crc="345130287" ref="location-bg"/>
-    <file name="nomq_location-bg.css" crc="429120502" ref="location-bg"/>
+    <file name="location-bg.css" crc="354144308" ref="location-bg"/>
+    <file name="nomq_location-bg.css" crc="433070715" ref="location-bg"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru"/>
@@ -1043,7 +1043,7 @@
   <file name="about-us-bg.html" crc="3780137395" seo="true" mt="1581121958853" redirect="true"/>
   <file name="the-master-plan-apt-1-bg.html" crc="4184799595" seo="true" mt="1581153912282" redirect="true"/>
   <file name="the-development-bg.html" crc="3854586526" seo="true" mt="1581119094699" redirect="true"/>
-  <file name="location-bg.html" crc="4287733596" seo="true" mt="1581159510941" redirect="true"/>
+  <file name="location-bg.html" crc="162829656" seo="true" mt="1581160957010" redirect="true"/>
   <file name="the-gallery-bg.html" crc="3781834539" seo="true" mt="1581118023477" redirect="true"/>
   <file name="the-apartments-bg.html" crc="4275086271" seo="true" mt="1581118186331" redirect="true"/>
   <file name="the-penthouse-bg.html" crc="246539450" seo="true" mt="1581122003354" redirect="true"/>
