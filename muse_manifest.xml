@@ -1,101 +1,127 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1581202522765">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1581218917516">
   <folder name="css">
-    <file name="site_global.css" crc="347579958"/>
-    <file name="master_eng-copy.css" crc="3949698796" ref="the-apartments"/>
-    <file name="nomq_preview_master_eng-copy.css" crc="3951521467" ref="the-apartments"/>
-    <file name="master_eng.css" crc="4247918848" ref="location:the-penthouse:the-development:the-gallery:index:about-us:-apartments:the-master-plan-apt-1:untitled-22"/>
-    <file name="nomq_preview_master_eng.css" crc="4220415599" ref="location:the-penthouse:the-development:the-gallery:index:about-us:-apartments:the-master-plan-apt-1:untitled-22"/>
-    <file name="master_bg-copy.css" crc="4156863338" ref="the-apartments-bg"/>
-    <file name="nomq_preview_master_bg-copy.css" crc="4161547269" ref="the-apartments-bg"/>
-    <file name="master_bg.css" crc="70699432" ref="the-penthouse-bg:the-development-bg:about-us-bg:the-gallery-bg:location_bg:the-master-plan-apt-1-bg:home-bg"/>
-    <file name="nomq_preview_master_bg.css" crc="4257003597" ref="the-penthouse-bg:the-development-bg:about-us-bg:the-gallery-bg:location_bg:the-master-plan-apt-1-bg:home-bg"/>
-    <file name="location.css" crc="3907383805" ref="location"/>
-    <file name="nomq_location.css" crc="9486285" ref="location"/>
+    <file name="site_global.css" crc="4007267860"/>
+    <file name="master_ru.css" crc="3775993230" ref="about-us-ru:the-apartments-ru:the-master-plan-apt-1-ru:the-penthouse-ru:the-development-ru:home-ru:location-ru:the-gallery-ru"/>
+    <file name="nomq_preview_master_ru.css" crc="4269501035" ref="about-us-ru:the-apartments-ru:the-master-plan-apt-1-ru:the-penthouse-ru:the-development-ru:home-ru:location-ru:the-gallery-ru"/>
+    <file name="master_eng.css" crc="4235585412" ref="location:the-development:the-gallery:index:the-master-plan-apt-1:the-apartments:about-us:the-penthouse"/>
+    <file name="nomq_preview_master_eng.css" crc="80185974" ref="location:the-development:the-gallery:index:the-master-plan-apt-1:the-apartments:about-us:the-penthouse"/>
+    <file name="master_bg.css" crc="4148069821" ref="the-master-plan-apt-1-bg:home-bg:location-bg:the-development-bg:about-us-bg:the-apartments-bg:the-penthouse-bg:the-gallery-bg"/>
+    <file name="nomq_preview_master_bg.css" crc="55283824" ref="the-master-plan-apt-1-bg:home-bg:location-bg:the-development-bg:about-us-bg:the-apartments-bg:the-penthouse-bg:the-gallery-bg"/>
+    <file name="location.css" crc="76095962" ref="location"/>
+    <file name="nomq_location.css" crc="17227797" ref="location"/>
     <file name="iefonts_location.css" crc="3824530138" ref="location"/>
-    <file name="the-penthouse.css" crc="3794771329" ref="the-penthouse"/>
-    <file name="nomq_the-penthouse.css" crc="144466820" ref="the-penthouse"/>
-    <file name="iefonts_the-penthouse.css" crc="3824530138" ref="the-penthouse"/>
-    <file name="the-penthouse-bg.css" crc="3982063284" ref="the-penthouse-bg"/>
-    <file name="nomq_the-penthouse-bg.css" crc="4039151836" ref="the-penthouse-bg"/>
-    <file name="iefonts_the-penthouse-bg.css" crc="3824530138" ref="the-penthouse-bg"/>
-    <file name="the-development.css" crc="182368634" ref="the-development"/>
-    <file name="nomq_the-development.css" crc="4104009031" ref="the-development"/>
-    <file name="iefonts_the-development.css" crc="3824530138" ref="the-development"/>
-    <file name="the-development-bg.css" crc="462728175" ref="the-development-bg"/>
-    <file name="nomq_the-development-bg.css" crc="4249409770" ref="the-development-bg"/>
-    <file name="iefonts_the-development-bg.css" crc="3824530138" ref="the-development-bg"/>
-    <file name="about-us-bg.css" crc="418563235" ref="about-us-bg"/>
-    <file name="nomq_about-us-bg.css" crc="221987462" ref="about-us-bg"/>
-    <file name="iefonts_about-us-bg.css" crc="3824530138" ref="about-us-bg"/>
-    <file name="the-gallery.css" crc="3800561630" ref="the-gallery"/>
-    <file name="nomq_the-gallery.css" crc="255436361" ref="the-gallery"/>
-    <file name="index.css" crc="3946454424" ref="index"/>
-    <file name="nomq_index.css" crc="3783239221" ref="index"/>
-    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="the-gallery-bg.css" crc="131946826" ref="the-gallery-bg"/>
-    <file name="nomq_the-gallery-bg.css" crc="508694669" ref="the-gallery-bg"/>
-    <file name="about-us.css" crc="128239441" ref="about-us"/>
-    <file name="nomq_about-us.css" crc="3896428770" ref="about-us"/>
-    <file name="iefonts_about-us.css" crc="3824530138" ref="about-us"/>
-    <file name="-apartments.css" crc="85432885" ref="-apartments"/>
-    <file name="nomq_-apartments.css" crc="164469120" ref="-apartments"/>
-    <file name="iefonts_-apartments.css" crc="3824530138" ref="-apartments"/>
-    <file name="the-master-plan-apt-1.css" crc="3886691195" ref="the-master-plan-apt-1"/>
-    <file name="nomq_the-master-plan-apt-1.css" crc="1540463" ref="the-master-plan-apt-1"/>
-    <file name="iefonts_the-master-plan-apt-1.css" crc="3824530138" ref="the-master-plan-apt-1"/>
-    <file name="location_bg.css" crc="499770956" ref="location_bg"/>
-    <file name="nomq_location_bg.css" crc="4215667761" ref="location_bg"/>
-    <file name="iefonts_location_bg.css" crc="3824530138" ref="location_bg"/>
-    <file name="untitled-22.css" crc="21442319" ref="untitled-22"/>
-    <file name="nomq_untitled-22.css" crc="4081595604" ref="untitled-22"/>
-    <file name="the-apartments.css" crc="335711550" ref="the-apartments"/>
-    <file name="nomq_the-apartments.css" crc="4245543736" ref="the-apartments"/>
-    <file name="iefonts_the-apartments.css" crc="3824530138" ref="the-apartments"/>
-    <file name="the-master-plan-apt-1-bg.css" crc="319181417" ref="the-master-plan-apt-1-bg"/>
-    <file name="nomq_the-master-plan-apt-1-bg.css" crc="200775693" ref="the-master-plan-apt-1-bg"/>
+    <file name="the-master-plan-apt-1-bg.css" crc="250420148" ref="the-master-plan-apt-1-bg"/>
+    <file name="nomq_the-master-plan-apt-1-bg.css" crc="454039026" ref="the-master-plan-apt-1-bg"/>
     <file name="iefonts_the-master-plan-apt-1-bg.css" crc="3824530138" ref="the-master-plan-apt-1-bg"/>
-    <file name="home-bg.css" crc="253202625" ref="home-bg"/>
-    <file name="nomq_home-bg.css" crc="4251587194" ref="home-bg"/>
+    <file name="home-bg.css" crc="4172574300" ref="home-bg"/>
+    <file name="nomq_home-bg.css" crc="112706344" ref="home-bg"/>
     <file name="iefonts_home-bg.css" crc="3824530138" ref="home-bg"/>
-    <file name="the-apartments-bg.css" crc="520460785" ref="the-apartments-bg"/>
-    <file name="nomq_the-apartments-bg.css" crc="4098882284" ref="the-apartments-bg"/>
-    <file name="iefonts_the-apartments-bg.css" crc="3824530138" ref="the-apartments-bg"/>
+    <file name="about-us-ru.css" crc="4018453811" ref="about-us-ru"/>
+    <file name="nomq_about-us-ru.css" crc="471558234" ref="about-us-ru"/>
+    <file name="iefonts_about-us-ru.css" crc="3824530138" ref="about-us-ru"/>
+    <file name="the-development.css" crc="410071182" ref="the-development"/>
+    <file name="nomq_the-development.css" crc="245428116" ref="the-development"/>
+    <file name="iefonts_the-development.css" crc="3824530138" ref="the-development"/>
+    <file name="the-apartments-ru.css" crc="504164918" ref="the-apartments-ru"/>
+    <file name="nomq_the-apartments-ru.css" crc="291048422" ref="the-apartments-ru"/>
+    <file name="iefonts_the-apartments-ru.css" crc="3824530138" ref="the-apartments-ru"/>
+    <file name="the-master-plan-apt-1-ru.css" crc="4058374515" ref="the-master-plan-apt-1-ru"/>
+    <file name="nomq_the-master-plan-apt-1-ru.css" crc="43082112" ref="the-master-plan-apt-1-ru"/>
+    <file name="iefonts_the-master-plan-apt-1-ru.css" crc="3824530138" ref="the-master-plan-apt-1-ru"/>
+    <file name="the-gallery.css" crc="105729813" ref="the-gallery"/>
+    <file name="nomq_the-gallery.css" crc="204773751" ref="the-gallery"/>
+    <file name="the-penthouse-ru.css" crc="4282848928" ref="the-penthouse-ru"/>
+    <file name="nomq_the-penthouse-ru.css" crc="4219115053" ref="the-penthouse-ru"/>
+    <file name="iefonts_the-penthouse-ru.css" crc="3824530138" ref="the-penthouse-ru"/>
+    <file name="index.css" crc="389341453" ref="index"/>
+    <file name="nomq_index.css" crc="4202990588" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="location-bg.css" crc="335020701" ref="location-bg"/>
+    <file name="nomq_location-bg.css" crc="174002342" ref="location-bg"/>
+    <file name="the-development-bg.css" crc="439394770" ref="the-development-bg"/>
+    <file name="nomq_the-development-bg.css" crc="445008620" ref="the-development-bg"/>
+    <file name="about-us-bg.css" crc="298790546" ref="about-us-bg"/>
+    <file name="nomq_about-us-bg.css" crc="4064003828" ref="about-us-bg"/>
+    <file name="the-apartments-bg.css" crc="3856990087" ref="the-apartments-bg"/>
+    <file name="nomq_the-apartments-bg.css" crc="4096246885" ref="the-apartments-bg"/>
+    <file name="the-master-plan-apt-1.css" crc="3761353766" ref="the-master-plan-apt-1"/>
+    <file name="nomq_the-master-plan-apt-1.css" crc="359528406" ref="the-master-plan-apt-1"/>
+    <file name="iefonts_the-master-plan-apt-1.css" crc="3824530138" ref="the-master-plan-apt-1"/>
+    <file name="the-penthouse-bg.css" crc="242299528" ref="the-penthouse-bg"/>
+    <file name="nomq_the-penthouse-bg.css" crc="4188139427" ref="the-penthouse-bg"/>
+    <file name="the-development-ru.css" crc="4177930022" ref="the-development-ru"/>
+    <file name="nomq_the-development-ru.css" crc="4047757410" ref="the-development-ru"/>
+    <file name="iefonts_the-development-ru.css" crc="3824530138" ref="the-development-ru"/>
+    <file name="home-ru.css" crc="364485861" ref="home-ru"/>
+    <file name="nomq_home-ru.css" crc="309458098" ref="home-ru"/>
+    <file name="iefonts_home-ru.css" crc="3824530138" ref="home-ru"/>
+    <file name="the-apartments.css" crc="95423351" ref="the-apartments"/>
+    <file name="nomq_the-apartments.css" crc="4072172437" ref="the-apartments"/>
+    <file name="iefonts_the-apartments.css" crc="3824530138" ref="the-apartments"/>
+    <file name="about-us.css" crc="431029070" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="4079370129" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="3824530138" ref="about-us"/>
+    <file name="location-ru.css" crc="311587807" ref="location-ru"/>
+    <file name="nomq_location-ru.css" crc="4278069341" ref="location-ru"/>
+    <file name="iefonts_location-ru.css" crc="3824530138" ref="location-ru"/>
+    <file name="the-penthouse.css" crc="7001700" ref="the-penthouse"/>
+    <file name="nomq_the-penthouse.css" crc="382164923" ref="the-penthouse"/>
+    <file name="iefonts_the-penthouse.css" crc="3824530138" ref="the-penthouse"/>
+    <file name="the-gallery-ru.css" crc="3981130545" ref="the-gallery-ru"/>
+    <file name="nomq_the-gallery-ru.css" crc="4392059" ref="the-gallery-ru"/>
+    <file name="the-gallery-bg.css" crc="479305431" ref="the-gallery-bg"/>
+    <file name="nomq_the-gallery-bg.css" crc="21561720" ref="the-gallery-bg"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg"/>
-    <file name="museutils.js" crc="3939489907" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg"/>
-    <file name="whatinput.js" crc="86476730" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg"/>
-    <file name="museconfig.js" crc="128606099" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg"/>
-    <file name="webpro.js" crc="3856315280" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg"/>
-    <file name="touchswipe.js" crc="3888935200" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg"/>
-    <file name="musewpdisclosure.js" crc="4294234138" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg"/>
-    <file name="jquery.museresponsive.js" crc="95814420" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg"/>
-    <file name="require.js" crc="4177726516" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="the-master-plan-apt-1:location:the-gallery:location_bg:the-gallery-bg:the-master-plan-apt-1-bg"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru"/>
+    <file name="museutils.js" crc="3939489907" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru"/>
+    <file name="whatinput.js" crc="86476730" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru"/>
+    <file name="museconfig.js" crc="128606099" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru"/>
+    <file name="webpro.js" crc="3856315280" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru"/>
+    <file name="require.js" crc="4177726516" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="the-master-plan-apt-1:location:the-gallery:the-master-plan-apt-1-bg:location-bg:the-gallery-bg:the-master-plan-apt-1-ru:location-ru:the-gallery-ru"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg"/>
-    <file name="chevron-arrow-down.svg" crc="4286692523" seo="true" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg">
+    <file name="blank.gif" crc="4208392903" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru"/>
+    <file name="chevron-arrow-down.svg" crc="4286692523" seo="true" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru">
       <caption webpage="the-gallery-bg" alt=""/>
       <caption webpage="the-gallery-bg" alt=""/>
       <caption webpage="the-gallery-bg" alt=""/>
       <caption webpage="the-gallery-bg" alt=""/>
       <caption webpage="the-gallery-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-development-bg" alt=""/>
+      <caption webpage="the-development-bg" alt=""/>
+      <caption webpage="the-development-bg" alt=""/>
+      <caption webpage="the-development-bg" alt=""/>
+      <caption webpage="the-development-bg" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
       <caption webpage="about-us-bg" alt=""/>
       <caption webpage="about-us-bg" alt=""/>
       <caption webpage="about-us-bg" alt=""/>
@@ -116,16 +142,21 @@
       <caption webpage="home-bg" alt=""/>
       <caption webpage="home-bg" alt=""/>
       <caption webpage="home-bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="the-development-bg" alt=""/>
-      <caption webpage="the-development-bg" alt=""/>
-      <caption webpage="the-development-bg" alt=""/>
-      <caption webpage="the-development-bg" alt=""/>
-      <caption webpage="the-development-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
       <caption webpage="the-apartments-bg" alt=""/>
       <caption webpage="the-apartments-bg" alt=""/>
       <caption webpage="the-apartments-bg" alt=""/>
@@ -136,6 +167,11 @@
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
       <caption webpage="the-development" alt=""/>
       <caption webpage="the-development" alt=""/>
       <caption webpage="the-development" alt=""/>
@@ -146,11 +182,16 @@
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
@@ -166,14 +207,14 @@
       <caption webpage="the-gallery" alt=""/>
       <caption webpage="the-gallery" alt=""/>
       <caption webpage="the-gallery" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
     </file>
     <file name="chevron-arrow-down_poster_.png" crc="4104937641" ref="index"/>
-    <file name="hedone-logo_white-svg.svg" crc="283209121" seo="true" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg">
+    <file name="hedone-logo_white.svg" crc="283209121" seo="true" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru">
       <caption webpage="the-gallery-bg" alt=""/>
       <caption webpage="the-gallery-bg" alt=""/>
       <caption webpage="the-gallery-bg" alt=""/>
@@ -182,22 +223,46 @@
       <caption webpage="the-gallery-bg" alt=""/>
       <caption webpage="the-gallery-bg" alt=""/>
       <caption webpage="the-gallery-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-development-bg" alt=""/>
+      <caption webpage="the-development-bg" alt=""/>
+      <caption webpage="the-development-bg" alt=""/>
+      <caption webpage="the-development-bg" alt=""/>
+      <caption webpage="the-development-bg" alt=""/>
+      <caption webpage="the-development-bg" alt=""/>
+      <caption webpage="the-development-bg" alt=""/>
+      <caption webpage="the-development-bg" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
       <caption webpage="about-us-bg" alt=""/>
       <caption webpage="about-us-bg" alt=""/>
       <caption webpage="about-us-bg" alt=""/>
@@ -230,22 +295,30 @@
       <caption webpage="home-bg" alt=""/>
       <caption webpage="home-bg" alt=""/>
       <caption webpage="home-bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="the-development-bg" alt=""/>
-      <caption webpage="the-development-bg" alt=""/>
-      <caption webpage="the-development-bg" alt=""/>
-      <caption webpage="the-development-bg" alt=""/>
-      <caption webpage="the-development-bg" alt=""/>
-      <caption webpage="the-development-bg" alt=""/>
-      <caption webpage="the-development-bg" alt=""/>
-      <caption webpage="the-development-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
       <caption webpage="the-apartments-bg" alt=""/>
       <caption webpage="the-apartments-bg" alt=""/>
       <caption webpage="the-apartments-bg" alt=""/>
@@ -262,6 +335,14 @@
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
       <caption webpage="the-development" alt=""/>
       <caption webpage="the-development" alt=""/>
       <caption webpage="the-development" alt=""/>
@@ -278,14 +359,22 @@
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
@@ -310,17 +399,17 @@
       <caption webpage="the-gallery" alt=""/>
       <caption webpage="the-gallery" alt=""/>
       <caption webpage="the-gallery" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
     </file>
-    <file name="hedone logo_white svg_poster_.png" crc="234367827" ref="index"/>
-    <file name="159777949_home_final.jpg" crc="3957896900" seo="true" ref="index:the-master-plan-apt-1:home-bg:the-master-plan-apt-1-bg">
+    <file name="hedone logo_white_poster_.png" crc="234367827" ref="index"/>
+    <file name="159777949_home_final.jpg" crc="3957896900" seo="true" ref="index:the-master-plan-apt-1:home-bg:the-master-plan-apt-1-bg:home-ru:the-master-plan-apt-1-ru">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -353,147 +442,203 @@
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="home-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:-apartments:untitled-22:home-bg:about-us-bg:the-development-bg:location_bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 1_web-01.png" crc="511769569" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg">
+    <file name="loading.gif" crc="3815509949" ref="index:the-master-plan-apt-1:the-apartments:the-penthouse:location:the-development:the-gallery:about-us:home-bg:about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:the-apartments-bg:the-penthouse-bg:home-ru:about-us-ru:the-master-plan-apt-1-ru:the-development-ru:location-ru:the-gallery-ru:the-penthouse-ru:the-apartments-ru"/>
+    <file name="floor plan apt 1_web-01.png" crc="511769569" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru">
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-    </file>
-    <file name="floor plan apt 1_web-01-u214849-fr.png" crc="323574409" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 2_web-01.png" crc="423967981" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg">
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-      <caption webpage="the-master-plan-apt-1" alt=""/>
-    </file>
-    <file name="floor plan apt 2_web-01-u214751-fr.png" crc="373286579" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 3_web-01.png" crc="58032269" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg">
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
-      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
     </file>
-    <file name="floor plan apt 3_web-01-u214763-fr.png" crc="4137262129" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 4_web-01.png" crc="193834855" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg">
+    <file name="floor plan apt 1_web-01-u214849-fr.png" crc="323574409" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 2_web-01.png" crc="423967981" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru">
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
     </file>
-    <file name="floor plan apt 4_web-01-u214866-fr.png" crc="4069346521" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 5_web-01.png" crc="335836226" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg">
+    <file name="floor plan apt 2_web-01-u214751-fr.png" crc="373286579" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 3_web-01.png" crc="58032269" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru">
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
     </file>
-    <file name="floor plan apt 5_web-01-u214797-fr.png" crc="4140343806" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 6_web-01.png" crc="4013927499" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg">
+    <file name="floor plan apt 3_web-01-u214763-fr.png" crc="4137262129" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 4_web-01.png" crc="193834855" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru">
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
     </file>
-    <file name="floor plan apt 6_web-01-u214815-fr.png" crc="349614072" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 7_web-01.png" crc="3939218052" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg">
+    <file name="floor plan apt 4_web-01-u214866-fr.png" crc="4069346521" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 5_web-01.png" crc="335836226" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru">
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
     </file>
-    <file name="floor plan apt 7_web-01-u214779-fr.png" crc="478464365" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 8_web-01.png" crc="3981516747" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg">
+    <file name="floor plan apt 5_web-01-u214797-fr.png" crc="4140343806" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 6_web-01.png" crc="4013927499" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru">
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
     </file>
-    <file name="floor plan apt 8_web-01-u214883-fr.png" crc="386932866" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan penthouse level 1_web-01.jpg" crc="3936699037" seo="true" ref="the-master-plan-apt-1:untitled-22:the-master-plan-apt-1-bg">
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
+    <file name="floor plan apt 6_web-01-u214815-fr.png" crc="349614072" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 7_web-01.png" crc="3939218052" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru">
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
     </file>
-    <file name="floor plan penthouse level 2_web-01.png" crc="4093991664" seo="true" ref="the-master-plan-apt-1:untitled-22:the-master-plan-apt-1-bg">
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
-      <caption webpage="untitled-22" alt=""/>
+    <file name="floor plan apt 7_web-01-u214779-fr.png" crc="478464365" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 8_web-01.png" crc="3981516747" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru">
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
     </file>
-    <file name="arrows.png" crc="3982291450" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg">
+    <file name="floor plan apt 8_web-01-u214883-fr.png" crc="386932866" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan penthouse level 1_web-01.jpg" crc="3936699037" seo="true" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru">
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+    </file>
+    <file name="floor plan penthouse level 2_web-01.png" crc="4093991664" seo="true" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru">
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+      <caption webpage="the-master-plan-apt-1" alt=""/>
+    </file>
+    <file name="arrows.png" crc="3982291450" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru">
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
@@ -504,6 +649,16 @@
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
       <caption webpage="the-master-plan-apt-1-bg" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
+      <caption webpage="the-master-plan-apt-1-ru" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
@@ -515,35 +670,36 @@
       <caption webpage="the-master-plan-apt-1" alt=""/>
       <caption webpage="the-master-plan-apt-1" alt=""/>
     </file>
-    <file name="floor plan apt 1_web-01-u171855-fr.jpg" crc="487080193" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 2_web-01-u172083-fr.jpg" crc="4053620616" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 3_web-01-u172124-fr.jpg" crc="3970872095" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 4_web-01-u172295-fr.jpg" crc="4045223558" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 5_web-01-u172466-fr.jpg" crc="3962075353" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 6_web-01-u172592-fr.jpg" crc="38380013" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 7_web-01-u172720-fr.jpg" crc="362041031" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 8_web-01-u172856-fr.jpg" crc="3972404316" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan penthouse level 1_web-01-u172974-fr.jpg" crc="4131212866" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan penthouse level 2_web-01-u172967-fr.jpg" crc="156384389" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 1_web-01-u171855-fr2.jpg" crc="3834057504" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 2_web-01-u172083-fr2.jpg" crc="127327790" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 3_web-01-u172124-fr2.jpg" crc="4066208451" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 4_web-01-u172295-fr2.jpg" crc="249455193" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 5_web-01-u172466-fr2.jpg" crc="4290303437" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 6_web-01-u172592-fr2.jpg" crc="81340750" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 7_web-01-u172720-fr2.jpg" crc="3762867153" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan apt 8_web-01-u172856-fr2.jpg" crc="3945352578" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan penthouse level 1_web-01-u172974-fr2.jpg" crc="3985325349" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="floor plan penthouse level 2_web-01-u172967-fr2.jpg" crc="3947627635" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg"/>
-    <file name="hedone properties-6th.jpg" crc="3896818560" seo="true" ref="the-apartments:-apartments:the-apartments-bg">
-      <caption webpage="the-apartments-bg" alt=""/>
-      <caption webpage="the-apartments-bg" alt=""/>
-      <caption webpage="the-apartments-bg" alt=""/>
-      <caption webpage="the-apartments-bg" alt=""/>
-      <caption webpage="the-apartments-bg" alt=""/>
-      <caption webpage="the-apartments-bg" alt=""/>
-      <caption webpage="the-apartments-bg" alt=""/>
-      <caption webpage="the-apartments-bg" alt=""/>
+    <file name="floor plan apt 1_web-01-u272443-fr.jpg" crc="487080193" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 2_web-01-u272455-fr.jpg" crc="4053620616" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 3_web-01-u272450-fr.jpg" crc="3970872095" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 4_web-01-u272401-fr.jpg" crc="4045223558" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 5_web-01-u272412-fr.jpg" crc="3962075353" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 6_web-01-u272404-fr.jpg" crc="38380013" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 7_web-01-u272425-fr.jpg" crc="362041031" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 8_web-01-u272391-fr.jpg" crc="3972404316" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan penthouse level 1_web-01-u272437-fr.jpg" crc="4131212866" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan penthouse level 2_web-01-u272430-fr.jpg" crc="156384389" ref="the-master-plan-apt-1:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 1_web-01-u272443-fr2.jpg" crc="3834057504" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 2_web-01-u272455-fr2.jpg" crc="127327790" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 3_web-01-u272450-fr2.jpg" crc="4066208451" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 4_web-01-u272401-fr2.jpg" crc="249455193" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 5_web-01-u272412-fr2.jpg" crc="4290303437" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 6_web-01-u272404-fr2.jpg" crc="81340750" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 7_web-01-u272425-fr2.jpg" crc="3762867153" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan apt 8_web-01-u272391-fr2.jpg" crc="3945352578" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan penthouse level 1_web-01-u272437-fr2.jpg" crc="3985325349" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan penthouse level 2_web-01-u272430-fr2.jpg" crc="3947627635" ref="the-master-plan-apt-1:the-master-plan-apt-1-bg:the-master-plan-apt-1-ru"/>
+    <file name="floor plan penthouse level 2_web-01-u272430-fr3.jpg" crc="536655278" ref="the-master-plan-apt-1"/>
+    <file name="hedone properties-6th.jpg" crc="3896818560" seo="true" ref="the-apartments:the-apartments-bg:the-apartments-ru">
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
+      <caption webpage="the-apartments-ru" alt=""/>
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
@@ -552,17 +708,16 @@
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
       <caption webpage="the-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
-      <caption webpage="-apartments" alt=""/>
+      <caption webpage="the-apartments-bg" alt=""/>
+      <caption webpage="the-apartments-bg" alt=""/>
+      <caption webpage="the-apartments-bg" alt=""/>
+      <caption webpage="the-apartments-bg" alt=""/>
+      <caption webpage="the-apartments-bg" alt=""/>
+      <caption webpage="the-apartments-bg" alt=""/>
+      <caption webpage="the-apartments-bg" alt=""/>
+      <caption webpage="the-apartments-bg" alt=""/>
     </file>
-    <file name="pent 1_cropped.jpg" crc="3897997044" seo="true" ref="the-penthouse:the-penthouse-bg">
+    <file name="pent 1_cropped.png" crc="273712118" seo="true" ref="the-penthouse:the-penthouse-bg:the-penthouse-ru">
       <caption webpage="the-penthouse" alt=""/>
       <caption webpage="the-penthouse" alt=""/>
       <caption webpage="the-penthouse" alt=""/>
@@ -579,8 +734,16 @@
       <caption webpage="the-penthouse-bg" alt=""/>
       <caption webpage="the-penthouse-bg" alt=""/>
       <caption webpage="the-penthouse-bg" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
     </file>
-    <file name="pent 2_cropped.jpg" crc="4057442435" seo="true" ref="the-penthouse:the-penthouse-bg">
+    <file name="pent 2_cropped.png" crc="379536205" seo="true" ref="the-penthouse:the-penthouse-bg:the-penthouse-ru">
       <caption webpage="the-penthouse" alt=""/>
       <caption webpage="the-penthouse" alt=""/>
       <caption webpage="the-penthouse" alt=""/>
@@ -597,16 +760,32 @@
       <caption webpage="the-penthouse-bg" alt=""/>
       <caption webpage="the-penthouse-bg" alt=""/>
       <caption webpage="the-penthouse-bg" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
+      <caption webpage="the-penthouse-ru" alt=""/>
     </file>
-    <file name="ahtopol.jpg" crc="4196332155" seo="true" ref="location:location_bg">
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
-      <caption webpage="location_bg" alt=""/>
+    <file name="ahtopol.jpg" crc="423612068" seo="true" ref="location:location-bg:location-ru">
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-bg" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
+      <caption webpage="location-ru" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
@@ -616,15 +795,17 @@
       <caption webpage="location" alt=""/>
       <caption webpage="location" alt=""/>
     </file>
-    <file name="map c_final_google map-01.jpg" crc="3989899718" ref="location:location_bg"/>
-    <file name="map c_final_google map-01-u147121-fr.jpg" crc="4037752771" ref="location:location_bg"/>
-    <file name="map c_final_google map-01-u147121-fr2.jpg" crc="4040179416" ref="location:location_bg"/>
-    <file name="map c_final_google map-01-u147121-fr3.jpg" crc="418021042" ref="location:location_bg"/>
-    <file name="map c_final_google map-01-u147121-fr4.jpg" crc="3909511078" ref="location:location_bg"/>
-    <file name="map c_final_google map-01-u147121-fr5.jpg" crc="131465900" ref="location:location_bg"/>
-    <file name="map c_final_google map-01-u147121-fr6.jpg" crc="487588108" ref="location:location_bg"/>
-    <file name="map c_final_google map-01-u147121-fr7.jpg" crc="3816650012" ref="location:location_bg"/>
-    <file name="hedone properties-first.jpg" crc="447828362" seo="true" ref="the-development:the-development-bg">
+    <file name="map c_final_google map-01.jpg" crc="4248893388" ref="location:location-bg:location-ru">
+      <caption webpage="location" alt=""/>
+    </file>
+    <file name="map c_final_google map-01-u147121-fr.jpg" crc="4208461231" ref="location:location-bg:location-ru"/>
+    <file name="map c_final_google map-01-u147121-fr2.jpg" crc="3988648142" ref="location:location-bg:location-ru"/>
+    <file name="map c_final_google map-01-u147121-fr3.jpg" crc="307408397" ref="location:location-bg"/>
+    <file name="map c_final_google map-01-u147121-fr4.jpg" crc="4273800214" ref="location:location-bg:location-ru"/>
+    <file name="map c_final_google map-01-u147121-fr5.jpg" crc="4091599404" ref="location:location-bg"/>
+    <file name="map c_final_google map-01-u147121-fr6.jpg" crc="44752356" ref="location:location-bg:location-ru"/>
+    <file name="map c_final_google map-01-u147121-fr7.jpg" crc="319881644" ref="location:location-bg:location-ru"/>
+    <file name="hedone properties-first.jpg" crc="295875496" seo="true" ref="the-development:the-development-bg:the-development-ru">
       <caption webpage="the-development" alt=""/>
       <caption webpage="the-development" alt=""/>
       <caption webpage="the-development" alt=""/>
@@ -633,6 +814,14 @@
       <caption webpage="the-development" alt=""/>
       <caption webpage="the-development" alt=""/>
       <caption webpage="the-development" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
+      <caption webpage="the-development-ru" alt=""/>
       <caption webpage="the-development-bg" alt=""/>
       <caption webpage="the-development-bg" alt=""/>
       <caption webpage="the-development-bg" alt=""/>
@@ -642,7 +831,7 @@
       <caption webpage="the-development-bg" alt=""/>
       <caption webpage="the-development-bg" alt=""/>
     </file>
-    <file name="159783417.jpg" crc="3816993624" seo="true" ref="the-gallery:the-gallery-bg">
+    <file name="159783417.jpg" crc="3816993624" seo="true" ref="the-gallery:the-gallery-bg:the-gallery-ru">
       <caption webpage="the-gallery-bg" alt=""/>
       <caption webpage="the-gallery-bg" alt=""/>
       <caption webpage="the-gallery-bg" alt=""/>
@@ -658,51 +847,67 @@
       <caption webpage="the-gallery" alt=""/>
       <caption webpage="the-gallery" alt=""/>
       <caption webpage="the-gallery" alt=""/>
+      <caption webpage="the-gallery" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+    </file>
+    <file name="hedone properties-7th-u198233-fr.jpg" crc="420892875" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="img_6173.jpg" crc="381365099" ref="the-gallery:the-gallery-bg:the-gallery-ru">
       <caption webpage="the-gallery" alt=""/>
     </file>
-    <file name="hedone properties-7th-u198233-fr.jpg" crc="465719340" ref="the-gallery:the-gallery-bg"/>
-    <file name="img_6173.jpg" crc="381365099" ref="the-gallery:the-gallery-bg">
+    <file name="159777959.jpg" crc="4143668421" ref="the-gallery:the-gallery-bg:the-gallery-ru">
       <caption webpage="the-gallery" alt=""/>
     </file>
-    <file name="159777959.jpg" crc="4143668421" ref="the-gallery:the-gallery-bg">
+    <file name="ahtopol-u198380-fr.jpg" crc="3940320457" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-apr 2.jpg" crc="494347866" ref="the-gallery:the-gallery-bg:the-gallery-ru">
+      <caption webpage="the-gallery-bg" alt=""/>
+      <caption webpage="the-gallery-bg" alt=""/>
+      <caption webpage="the-gallery-bg" alt=""/>
+      <caption webpage="the-gallery-bg" alt=""/>
+      <caption webpage="the-gallery-bg" alt=""/>
+      <caption webpage="the-gallery-bg" alt=""/>
+      <caption webpage="the-gallery-bg" alt=""/>
+      <caption webpage="the-gallery-bg" alt=""/>
+      <caption webpage="the-gallery" alt=""/>
+      <caption webpage="the-gallery" alt=""/>
+      <caption webpage="the-gallery" alt=""/>
+      <caption webpage="the-gallery" alt=""/>
+      <caption webpage="the-gallery" alt=""/>
+      <caption webpage="the-gallery" alt=""/>
+      <caption webpage="the-gallery" alt=""/>
+      <caption webpage="the-gallery" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+    </file>
+    <file name="hedone properties-first-u198523-fr.jpg" crc="344232167" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777951a.jpg" crc="113201983" ref="the-gallery:the-gallery-bg:the-gallery-ru">
       <caption webpage="the-gallery" alt=""/>
     </file>
-    <file name="ahtopol-u198380-fr.jpg" crc="4268192785" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-apr 2.jpg" crc="494347866" ref="the-gallery:the-gallery-bg">
-      <caption webpage="the-gallery-bg" alt=""/>
-      <caption webpage="the-gallery-bg" alt=""/>
-      <caption webpage="the-gallery-bg" alt=""/>
-      <caption webpage="the-gallery-bg" alt=""/>
-      <caption webpage="the-gallery-bg" alt=""/>
-      <caption webpage="the-gallery-bg" alt=""/>
-      <caption webpage="the-gallery-bg" alt=""/>
-      <caption webpage="the-gallery-bg" alt=""/>
-      <caption webpage="the-gallery" alt=""/>
-      <caption webpage="the-gallery" alt=""/>
-      <caption webpage="the-gallery" alt=""/>
-      <caption webpage="the-gallery" alt=""/>
-      <caption webpage="the-gallery" alt=""/>
-      <caption webpage="the-gallery" alt=""/>
-      <caption webpage="the-gallery" alt=""/>
+    <file name="6557043485_b37d3e72cc_c.jpg" crc="534055574" ref="the-gallery:the-gallery-bg:the-gallery-ru">
       <caption webpage="the-gallery" alt=""/>
     </file>
-    <file name="hedone properties-first-u198523-fr.jpg" crc="4110918345" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777951a.jpg" crc="113201983" ref="the-gallery:the-gallery-bg">
+    <file name="159783595 copy_master plan.jpg" crc="3781213532" ref="the-gallery:the-gallery-bg:the-gallery-ru">
       <caption webpage="the-gallery" alt=""/>
     </file>
-    <file name="6557043485_b37d3e72cc_c.jpg" crc="534055574" ref="the-gallery:the-gallery-bg">
+    <file name="14597502608_4184dd8c88_c.jpg" crc="238195551" ref="the-gallery:the-gallery-bg:the-gallery-ru">
       <caption webpage="the-gallery" alt=""/>
     </file>
-    <file name="159783595 copy_master plan.jpg" crc="3781213532" ref="the-gallery:the-gallery-bg">
+    <file name="159777952.jpg" crc="48332715" ref="the-gallery:the-gallery-bg:the-gallery-ru">
       <caption webpage="the-gallery" alt=""/>
     </file>
-    <file name="14597502608_4184dd8c88_c.jpg" crc="238195551" ref="the-gallery:the-gallery-bg">
-      <caption webpage="the-gallery" alt=""/>
-    </file>
-    <file name="159777952.jpg" crc="48332715" ref="the-gallery:the-gallery-bg">
-      <caption webpage="the-gallery" alt=""/>
-    </file>
-    <file name="hedone properties-7th.jpg" crc="4027775081" ref="the-gallery:the-gallery-bg">
+    <file name="hedone properties-7th.jpg" crc="174537085" ref="the-gallery:the-gallery-bg:the-gallery-ru">
       <caption webpage="the-gallery-bg" alt=""/>
       <caption webpage="the-gallery-bg" alt=""/>
       <caption webpage="the-gallery-bg" alt=""/>
@@ -713,83 +918,96 @@
       <caption webpage="the-gallery" alt=""/>
       <caption webpage="the-gallery" alt=""/>
       <caption webpage="the-gallery" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
+      <caption webpage="the-gallery-ru" alt=""/>
     </file>
-    <file name="159777959-u198368-fr.jpg" crc="3787115918" ref="the-gallery:the-gallery-bg"/>
-    <file name="ahtopol-u198392-fr.jpg" crc="95488183" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-first-u198532-fr.jpg" crc="46332219" ref="the-gallery:the-gallery-bg"/>
-    <file name="159783417-u198568-fr.jpg" crc="4158583890" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777952-u198640-fr.jpg" crc="4149011663" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-7th-u198233-fr2.jpg" crc="135429303" ref="the-gallery:the-gallery-bg"/>
-    <file name="img_6173-u198324-fr.jpg" crc="128581051" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777959-u198356-fr.jpg" crc="51781478" ref="the-gallery:the-gallery-bg"/>
-    <file name="ahtopol-u198380-fr2.jpg" crc="4134671292" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-apr 2-u198404-fr.jpg" crc="99417039" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-first-u198523-fr2.jpg" crc="325039377" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777951a-u198541-fr.jpg" crc="450944000" ref="the-gallery:the-gallery-bg"/>
-    <file name="159783417-u198559-fr.jpg" crc="441854674" ref="the-gallery:the-gallery-bg"/>
-    <file name="6557043485_b37d3e72cc_c-u198577-fr.jpg" crc="179251998" ref="the-gallery:the-gallery-bg"/>
-    <file name="159783595 copy_master plan-u198595-fr.jpg" crc="3793940070" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777952-u198631-fr.jpg" crc="3826616942" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-7th-u198233-fr3.jpg" crc="4115374886" ref="the-gallery:the-gallery-bg"/>
-    <file name="img_6173-u198324-fr2.jpg" crc="174034888" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777959-u198356-fr2.jpg" crc="3964549059" ref="the-gallery:the-gallery-bg"/>
-    <file name="ahtopol-u198380-fr3.jpg" crc="3844457069" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-apr 2-u198404-fr2.jpg" crc="40079325" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-first-u198523-fr3.jpg" crc="102573136" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777951a-u198541-fr2.jpg" crc="417980534" ref="the-gallery:the-gallery-bg"/>
-    <file name="159783417-u198559-fr2.jpg" crc="4024089433" ref="the-gallery:the-gallery-bg"/>
-    <file name="6557043485_b37d3e72cc_c-u198577-fr2.jpg" crc="301259443" ref="the-gallery:the-gallery-bg"/>
-    <file name="159783595 copy_master plan-u198595-fr2.jpg" crc="124377362" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777952-u198631-fr2.jpg" crc="360707546" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-7th-u198233-fr4.jpg" crc="131131549" ref="the-gallery:the-gallery-bg"/>
-    <file name="img_6173-u198324-fr3.jpg" crc="3940936270" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777959-u198356-fr3.jpg" crc="3989696068" ref="the-gallery:the-gallery-bg"/>
-    <file name="ahtopol-u198380-fr4.jpg" crc="4128310612" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-apr 2-u198404-fr3.jpg" crc="4267108946" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-first-u198523-fr4.jpg" crc="3893987650" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777951a-u198541-fr3.jpg" crc="4156344693" ref="the-gallery:the-gallery-bg"/>
-    <file name="159783417-u198559-fr3.jpg" crc="3855434825" ref="the-gallery:the-gallery-bg"/>
-    <file name="6557043485_b37d3e72cc_c-u198577-fr3.jpg" crc="4187901865" ref="the-gallery:the-gallery-bg"/>
-    <file name="159783595 copy_master plan-u198595-fr3.jpg" crc="3986926238" ref="the-gallery:the-gallery-bg"/>
-    <file name="14597502608_4184dd8c88_c-u198613-fr.jpg" crc="4027780818" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777952-u198631-fr3.jpg" crc="249764979" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-7th-u198223-fr.jpg" crc="151640316" ref="the-gallery:the-gallery-bg"/>
-    <file name="img_6173-u198344-fr.jpg" crc="350644959" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777959-u198368-fr2.jpg" crc="77832614" ref="the-gallery:the-gallery-bg"/>
-    <file name="ahtopol-u198392-fr2.jpg" crc="4210914945" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-apr 2-u198416-fr.jpg" crc="509166604" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-first-u198532-fr2.jpg" crc="4063847074" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777951a-u198550-fr.jpg" crc="466662150" ref="the-gallery:the-gallery-bg"/>
-    <file name="159783417-u198568-fr2.jpg" crc="415048439" ref="the-gallery:the-gallery-bg"/>
-    <file name="6557043485_b37d3e72cc_c-u198586-fr.jpg" crc="266793576" ref="the-gallery:the-gallery-bg"/>
-    <file name="159783595 copy_master plan-u198604-fr.jpg" crc="3842451059" ref="the-gallery:the-gallery-bg"/>
-    <file name="14597502608_4184dd8c88_c-u198622-fr.jpg" crc="289780558" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777952-u198640-fr2.jpg" crc="4065234211" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-7th-u198233-fr5.jpg" crc="447566497" ref="the-gallery:the-gallery-bg"/>
-    <file name="img_6173-u198324-fr4.jpg" crc="4228264683" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777959-u198356-fr4.jpg" crc="366416002" ref="the-gallery:the-gallery-bg"/>
-    <file name="ahtopol-u198380-fr5.jpg" crc="314991765" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-apr 2-u198404-fr4.jpg" crc="3998638311" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-first-u198523-fr5.jpg" crc="4138771926" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777951a-u198541-fr4.jpg" crc="424850790" ref="the-gallery:the-gallery-bg"/>
-    <file name="159783417-u198559-fr4.jpg" crc="252816087" ref="the-gallery:the-gallery-bg"/>
-    <file name="6557043485_b37d3e72cc_c-u198577-fr4.jpg" crc="118605985" ref="the-gallery:the-gallery-bg"/>
-    <file name="159783595 copy_master plan-u198595-fr4.jpg" crc="3931122013" ref="the-gallery:the-gallery-bg"/>
-    <file name="14597502608_4184dd8c88_c-u198613-fr2.jpg" crc="213575047" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777952-u198631-fr4.jpg" crc="4129070775" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-7th-u198223-fr2.jpg" crc="3874221785" ref="the-gallery:the-gallery-bg"/>
-    <file name="img_6173-u198344-fr2.jpg" crc="61310979" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777959-u198368-fr3.jpg" crc="128427437" ref="the-gallery:the-gallery-bg"/>
-    <file name="ahtopol-u198392-fr3.jpg" crc="49673344" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-apr 2-u198416-fr2.jpg" crc="358820365" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties-first-u198532-fr3.jpg" crc="4211995030" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777951a-u198550-fr2.jpg" crc="4014448243" ref="the-gallery:the-gallery-bg"/>
-    <file name="159783417-u198568-fr3.jpg" crc="3985635376" ref="the-gallery:the-gallery-bg"/>
-    <file name="6557043485_b37d3e72cc_c-u198586-fr2.jpg" crc="531179416" ref="the-gallery:the-gallery-bg"/>
-    <file name="159783595 copy_master plan-u198604-fr2.jpg" crc="3926337561" ref="the-gallery:the-gallery-bg"/>
-    <file name="14597502608_4184dd8c88_c-u198622-fr2.jpg" crc="4115647331" ref="the-gallery:the-gallery-bg"/>
-    <file name="159777952-u198640-fr3.jpg" crc="3857498407" ref="the-gallery:the-gallery-bg"/>
-    <file name="hedone properties5th.jpg" crc="3824799729" seo="true" ref="about-us:about-us-bg">
+    <file name="159777959-u198368-fr.jpg" crc="3787115918" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="ahtopol-u198392-fr.jpg" crc="3875499345" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-first-u198532-fr.jpg" crc="3798982718" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159783417-u198568-fr.jpg" crc="4158583890" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777952-u198640-fr.jpg" crc="4149011663" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-7th-u198233-fr2.jpg" crc="520551282" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="img_6173-u198324-fr.jpg" crc="128581051" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777959-u198356-fr.jpg" crc="51781478" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="ahtopol-u198380-fr2.jpg" crc="3783480749" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-apr 2-u198404-fr.jpg" crc="99417039" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-first-u198523-fr2.jpg" crc="4205942531" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777951a-u198541-fr.jpg" crc="450944000" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159783417-u198559-fr.jpg" crc="441854674" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="6557043485_b37d3e72cc_c-u198577-fr.jpg" crc="179251998" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159783595 copy_master plan-u198595-fr.jpg" crc="3793940070" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777952-u198631-fr.jpg" crc="3826616942" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-7th-u198233-fr3.jpg" crc="3931712600" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="img_6173-u198324-fr2.jpg" crc="174034888" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777959-u198356-fr2.jpg" crc="3964549059" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="ahtopol-u198380-fr3.jpg" crc="3997663311" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-apr 2-u198404-fr2.jpg" crc="40079325" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-first-u198523-fr3.jpg" crc="4073862095" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777951a-u198541-fr2.jpg" crc="417980534" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159783417-u198559-fr2.jpg" crc="4024089433" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="6557043485_b37d3e72cc_c-u198577-fr2.jpg" crc="301259443" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159783595 copy_master plan-u198595-fr2.jpg" crc="124377362" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777952-u198631-fr2.jpg" crc="360707546" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-7th-u198233-fr4.jpg" crc="4004743414" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="img_6173-u198324-fr3.jpg" crc="3940936270" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777959-u198356-fr3.jpg" crc="3989696068" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="ahtopol-u198380-fr4.jpg" crc="3770291638" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-apr 2-u198404-fr3.jpg" crc="4267108946" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-first-u198523-fr4.jpg" crc="67000078" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777951a-u198541-fr3.jpg" crc="4156344693" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159783417-u198559-fr3.jpg" crc="3855434825" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="6557043485_b37d3e72cc_c-u198577-fr3.jpg" crc="4187901865" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159783595 copy_master plan-u198595-fr3.jpg" crc="3986926238" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="14597502608_4184dd8c88_c-u198613-fr.jpg" crc="4027780818" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777952-u198631-fr3.jpg" crc="249764979" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-7th-u198223-fr.jpg" crc="410105030" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="img_6173-u198344-fr.jpg" crc="350644959" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777959-u198368-fr2.jpg" crc="77832614" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="ahtopol-u198392-fr2.jpg" crc="3771160052" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-apr 2-u198416-fr.jpg" crc="509166604" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-first-u198532-fr2.jpg" crc="293186885" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777951a-u198550-fr.jpg" crc="466662150" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159783417-u198568-fr2.jpg" crc="415048439" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="6557043485_b37d3e72cc_c-u198586-fr.jpg" crc="266793576" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159783595 copy_master plan-u198604-fr.jpg" crc="3842451059" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="14597502608_4184dd8c88_c-u198622-fr.jpg" crc="289780558" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777952-u198640-fr2.jpg" crc="4065234211" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-7th-u198233-fr5.jpg" crc="3902516048" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="img_6173-u198324-fr4.jpg" crc="4228264683" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777959-u198356-fr4.jpg" crc="366416002" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="ahtopol-u198380-fr5.jpg" crc="3955437214" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-apr 2-u198404-fr4.jpg" crc="3998638311" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-first-u198523-fr5.jpg" crc="419897625" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777951a-u198541-fr4.jpg" crc="424850790" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159783417-u198559-fr4.jpg" crc="252816087" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="6557043485_b37d3e72cc_c-u198577-fr4.jpg" crc="118605985" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159783595 copy_master plan-u198595-fr4.jpg" crc="3931122013" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="14597502608_4184dd8c88_c-u198613-fr2.jpg" crc="213575047" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777952-u198631-fr4.jpg" crc="4129070775" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-7th-u198223-fr2.jpg" crc="4040940176" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="img_6173-u198344-fr2.jpg" crc="61310979" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777959-u198368-fr3.jpg" crc="128427437" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="ahtopol-u198392-fr3.jpg" crc="4259058396" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-apr 2-u198416-fr2.jpg" crc="358820365" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties-first-u198532-fr3.jpg" crc="3808359579" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777951a-u198550-fr2.jpg" crc="4014448243" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159783417-u198568-fr3.jpg" crc="3985635376" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="6557043485_b37d3e72cc_c-u198586-fr2.jpg" crc="531179416" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159783595 copy_master plan-u198604-fr2.jpg" crc="3926337561" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="14597502608_4184dd8c88_c-u198622-fr2.jpg" crc="4115647331" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="159777952-u198640-fr3.jpg" crc="3857498407" ref="the-gallery:the-gallery-bg:the-gallery-ru"/>
+    <file name="hedone properties5th.jpg" crc="3824799729" seo="true" ref="about-us:about-us-bg:about-us-ru">
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
+      <caption webpage="about-us-ru" alt=""/>
       <caption webpage="about-us-bg" alt=""/>
       <caption webpage="about-us-bg" alt=""/>
       <caption webpage="about-us-bg" alt=""/>
@@ -807,23 +1025,33 @@
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
     </file>
+    <file name="floor plan penthouse level 2_web-01-u254453-fr.jpg" crc="187710177" ref="the-master-plan-apt-1-bg"/>
+    <file name="floor plan penthouse level 2_web-01-u254453-fr2.jpg" crc="3942973875" ref="the-master-plan-apt-1-bg"/>
+    <file name="map c_final_google map-01-u266265-fr.jpg" crc="4059993255" ref="location-ru"/>
+    <file name="map c_final_google map-01-u266265-fr2.jpg" crc="4212165698" ref="location-ru"/>
   </folder>
-  <file name="index.html" crc="4134639642" seo="true" mt="1581197486677" redirect="true"/>
-  <file name="the-master-plan-apt-1.html" crc="4212541499" seo="true" mt="1581201035321" redirect="true"/>
-  <file name="the-apartments.html" crc="4115428083" seo="true" mt="1581200142502" redirect="true"/>
-  <file name="the-penthouse.html" crc="83015952" seo="true" mt="1581200287834" redirect="true"/>
-  <file name="location.html" crc="289777106" seo="true" mt="1581200033165" redirect="true"/>
-  <file name="the-development.html" crc="4204357394" seo="true" mt="1581199907566" redirect="true"/>
-  <file name="the-gallery.html" crc="239193274" seo="true" mt="1577814642668" redirect="true"/>
-  <file name="about-us.html" crc="3779351602" seo="true" mt="1581199690549" redirect="true"/>
-  <file name="-apartments.html" crc="4199648728" seo="true" mt="1581201985810" redirect="true"/>
-  <file name="untitled-22.html" crc="4065722435" seo="true" mt="1577814642668" redirect="true"/>
-  <file name="home-bg.html" crc="4062157480" seo="true" mt="1581198431841" redirect="true"/>
-  <file name="about-us-bg.html" crc="3975461777" seo="true" mt="1581198431841" redirect="true"/>
-  <file name="the-development-bg.html" crc="4249223779" seo="true" mt="1581198431841" redirect="true"/>
-  <file name="location_bg.html" crc="3980108450" seo="true" mt="1581198431841" redirect="true"/>
-  <file name="the-gallery-bg.html" crc="356042013" seo="true" mt="1581198431841" redirect="true"/>
-  <file name="the-apartments-bg.html" crc="369418806" seo="true" mt="1581196511499" redirect="true"/>
-  <file name="the-penthouse-bg.html" crc="370581663" seo="true" mt="1581198431841" redirect="true"/>
-  <file name="the-master-plan-apt-1-bg.html" crc="4213715981" seo="true" mt="1581198529671" redirect="true"/>
+  <file name="index.html" crc="4002652391" seo="true" mt="1581190229718" redirect="true"/>
+  <file name="the-master-plan-apt-1.html" crc="319077820" seo="true" mt="1581218051240" redirect="true"/>
+  <file name="the-apartments.html" crc="411081172" seo="true" mt="1581190229718" redirect="true"/>
+  <file name="the-penthouse.html" crc="4041922410" seo="true" mt="1581190229718" redirect="true"/>
+  <file name="location.html" crc="241460691" seo="true" mt="1581190229718" redirect="true"/>
+  <file name="the-development.html" crc="94696512" seo="true" mt="1581190229718" redirect="true"/>
+  <file name="the-gallery.html" crc="4068089540" seo="true" mt="1581190229718" redirect="true"/>
+  <file name="about-us.html" crc="3761172257" seo="true" mt="1581190229718" redirect="true"/>
+  <file name="home-bg.html" crc="4073092990" seo="true" mt="1581190507227" redirect="true"/>
+  <file name="about-us-bg.html" crc="4006671541" seo="true" mt="1581190507227" redirect="true"/>
+  <file name="the-master-plan-apt-1-bg.html" crc="4063738394" seo="true" mt="1581218121160" redirect="true"/>
+  <file name="the-development-bg.html" crc="292957459" seo="true" mt="1581190507227" redirect="true"/>
+  <file name="location-bg.html" crc="417334381" seo="true" mt="1581190662227" redirect="true"/>
+  <file name="the-gallery-bg.html" crc="164424084" seo="true" mt="1581190507227" redirect="true"/>
+  <file name="the-apartments-bg.html" crc="12407399" seo="true" mt="1581190507227" redirect="true"/>
+  <file name="the-penthouse-bg.html" crc="4220863368" seo="true" mt="1581190507227" redirect="true"/>
+  <file name="home-ru.html" crc="4090673766" seo="true" mt="1581213885665" redirect="true"/>
+  <file name="about-us-ru.html" crc="3965313172" seo="true" mt="1581214164589" redirect="true"/>
+  <file name="the-master-plan-apt-1-ru.html" crc="3967587643" seo="true" mt="1581218186057" redirect="true"/>
+  <file name="the-development-ru.html" crc="211655072" seo="true" mt="1581217435556" redirect="true"/>
+  <file name="location-ru.html" crc="3896962366" seo="true" mt="1581217680833" redirect="true"/>
+  <file name="the-gallery-ru.html" crc="529022165" seo="true" mt="1581118023527" redirect="true"/>
+  <file name="the-penthouse-ru.html" crc="3759161132" seo="true" mt="1581217800966" redirect="true"/>
+  <file name="the-apartments-ru.html" crc="4231130148" seo="true" mt="1581217743852" redirect="true"/>
 </manifest>
