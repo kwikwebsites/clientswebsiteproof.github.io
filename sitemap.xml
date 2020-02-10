@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>http://bigonideas.co.uk/the-master-plan-apt-1.html</loc>
-    <lastmod>2020-02-09</lastmod>
+    <lastmod>2020-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -160,27 +160,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/the-master-plan-apt-1-bg.html</loc>
-    <lastmod>2020-02-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/hedone-logo_white.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/159777949_home_final.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20penthouse%20level%201_web-01.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20penthouse%20level%202_web-01.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://bigonideas.co.uk/the-development-bg.html</loc>
     <lastmod>2020-02-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -260,7 +239,7 @@
   </url>
   <url>
     <loc>http://bigonideas.co.uk/home-ru.html</loc>
-    <lastmod>2020-02-09</lastmod>
+    <lastmod>2020-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -275,7 +254,7 @@
   </url>
   <url>
     <loc>http://bigonideas.co.uk/about-us-ru.html</loc>
-    <lastmod>2020-02-09</lastmod>
+    <lastmod>2020-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -290,7 +269,7 @@
   </url>
   <url>
     <loc>http://bigonideas.co.uk/the-master-plan-apt-1-ru.html</loc>
-    <lastmod>2020-02-09</lastmod>
+    <lastmod>2020-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -311,7 +290,7 @@
   </url>
   <url>
     <loc>http://bigonideas.co.uk/the-development-ru.html</loc>
-    <lastmod>2020-02-09</lastmod>
+    <lastmod>2020-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -326,7 +305,7 @@
   </url>
   <url>
     <loc>http://bigonideas.co.uk/location-ru.html</loc>
-    <lastmod>2020-02-09</lastmod>
+    <lastmod>2020-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -341,7 +320,7 @@
   </url>
   <url>
     <loc>http://bigonideas.co.uk/the-gallery-ru.html</loc>
-    <lastmod>2020-02-09</lastmod>
+    <lastmod>2020-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -356,7 +335,7 @@
   </url>
   <url>
     <loc>http://bigonideas.co.uk/the-penthouse-ru.html</loc>
-    <lastmod>2020-02-09</lastmod>
+    <lastmod>2020-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -374,7 +353,7 @@
   </url>
   <url>
     <loc>http://bigonideas.co.uk/the-apartments-ru.html</loc>
-    <lastmod>2020-02-09</lastmod>
+    <lastmod>2020-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -385,6 +364,27 @@
     </image:image>
     <image:image>
       <image:loc>http://bigonideas.co.uk/images/hedone%20properties-6th.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/the-master-plan-apt-1-bg.html</loc>
+    <lastmod>2020-02-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/chevron-arrow-down.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/hedone-logo_white.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/159777949_home_final.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20penthouse%20level%201_web-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bigonideas.co.uk/images/floor%20plan%20penthouse%20level%202_web-01.png</image:loc>
     </image:image>
   </url>
 </urlset>
