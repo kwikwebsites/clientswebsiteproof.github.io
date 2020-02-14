@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1581637926830">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1581639033200">
   <folder name="css">
     <file name="site_global.css" crc="4007267860"/>
     <file name="master_ru.css" crc="3766549961" ref="the-gallery-ru:home-ru:the-penthouse-ru:about-us-ru:the-master-plan-apt-1-ru:the-apartments-ru:the-development-ru:location-ru"/>
     <file name="nomq_preview_master_ru.css" crc="4016057489" ref="the-gallery-ru:home-ru:the-penthouse-ru:about-us-ru:the-master-plan-apt-1-ru:the-apartments-ru:the-development-ru:location-ru"/>
-    <file name="master_eng.css" crc="3929752060" ref="the-penthouse:location:the-development:the-gallery:index:about-us:the-master-plan-apt-1:the-apartments"/>
+    <file name="master_eng.css" crc="430977692" ref="the-penthouse:location:the-development:the-gallery:index:about-us:the-master-plan-apt-1:the-apartments"/>
     <file name="nomq_preview_master_eng.css" crc="121326009" ref="the-penthouse:location:the-development:the-gallery:index:about-us:the-master-plan-apt-1:the-apartments"/>
     <file name="master_bg.css" crc="4209897710" ref="about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:home-bg:the-apartments-bg:the-penthouse-bg"/>
     <file name="nomq_preview_master_bg.css" crc="136431314" ref="about-us-bg:the-master-plan-apt-1-bg:the-development-bg:location-bg:the-gallery-bg:home-bg:the-apartments-bg:the-penthouse-bg"/>
@@ -11,7 +11,7 @@
     <file name="nomq_the-gallery-ru.css" crc="377333112" ref="the-gallery-ru"/>
     <file name="home-ru.css" crc="41341901" ref="home-ru"/>
     <file name="nomq_home-ru.css" crc="4011956454" ref="home-ru"/>
-    <file name="the-penthouse.css" crc="3992640998" ref="the-penthouse"/>
+    <file name="the-penthouse.css" crc="4041178538" ref="the-penthouse"/>
     <file name="nomq_the-penthouse.css" crc="4813294" ref="the-penthouse"/>
     <file name="iefonts_the-penthouse.css" crc="3824530138" ref="the-penthouse"/>
     <file name="about-us-bg.css" crc="526422364" ref="about-us-bg"/>
@@ -25,7 +25,7 @@
     <file name="about-us-ru.css" crc="341037243" ref="about-us-ru"/>
     <file name="nomq_about-us-ru.css" crc="271379947" ref="about-us-ru"/>
     <file name="iefonts_about-us-ru.css" crc="3824530138" ref="about-us-ru"/>
-    <file name="location.css" crc="4011731844" ref="location"/>
+    <file name="location.css" crc="288407243" ref="location"/>
     <file name="nomq_location.css" crc="489861865" ref="location"/>
     <file name="iefonts_location.css" crc="3824530138" ref="location"/>
     <file name="the-development-bg.css" crc="3897911887" ref="the-development-bg"/>
@@ -33,7 +33,7 @@
     <file name="the-master-plan-apt-1-ru.css" crc="321006607" ref="the-master-plan-apt-1-ru"/>
     <file name="nomq_the-master-plan-apt-1-ru.css" crc="127806816" ref="the-master-plan-apt-1-ru"/>
     <file name="iefonts_the-master-plan-apt-1-ru.css" crc="3824530138" ref="the-master-plan-apt-1-ru"/>
-    <file name="the-development.css" crc="234835771" ref="the-development"/>
+    <file name="the-development.css" crc="4002908108" ref="the-development"/>
     <file name="nomq_the-development.css" crc="4114118011" ref="the-development"/>
     <file name="iefonts_the-development.css" crc="3824530138" ref="the-development"/>
     <file name="location-bg.css" crc="4056633325" ref="location-bg"/>
@@ -44,11 +44,11 @@
     <file name="the-development-ru.css" crc="54845707" ref="the-development-ru"/>
     <file name="nomq_the-development-ru.css" crc="4251617833" ref="the-development-ru"/>
     <file name="iefonts_the-development-ru.css" crc="3824530138" ref="the-development-ru"/>
-    <file name="the-gallery.css" crc="46382404" ref="the-gallery"/>
+    <file name="the-gallery.css" crc="3777656732" ref="the-gallery"/>
     <file name="nomq_the-gallery.css" crc="3948395780" ref="the-gallery"/>
     <file name="the-gallery-bg.css" crc="4061602882" ref="the-gallery-bg"/>
     <file name="nomq_the-gallery-bg.css" crc="510683101" ref="the-gallery-bg"/>
-    <file name="index.css" crc="3847645779" ref="index"/>
+    <file name="index.css" crc="4278960078" ref="index"/>
     <file name="nomq_index.css" crc="4112889374" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="home-bg.css" crc="3848911992" ref="home-bg"/>
@@ -56,17 +56,17 @@
     <file name="location-ru.css" crc="4291172106" ref="location-ru"/>
     <file name="nomq_location-ru.css" crc="203461932" ref="location-ru"/>
     <file name="iefonts_location-ru.css" crc="3824530138" ref="location-ru"/>
-    <file name="about-us.css" crc="288677118" ref="about-us"/>
+    <file name="about-us.css" crc="4260947337" ref="about-us"/>
     <file name="nomq_about-us.css" crc="505331184" ref="about-us"/>
     <file name="iefonts_about-us.css" crc="3824530138" ref="about-us"/>
     <file name="the-apartments-bg.css" crc="97325616" ref="the-apartments-bg"/>
     <file name="nomq_the-apartments-bg.css" crc="432629920" ref="the-apartments-bg"/>
-    <file name="the-master-plan-apt-1.css" crc="3959688412" ref="the-master-plan-apt-1"/>
+    <file name="the-master-plan-apt-1.css" crc="294155171" ref="the-master-plan-apt-1"/>
     <file name="nomq_the-master-plan-apt-1.css" crc="3926800986" ref="the-master-plan-apt-1"/>
     <file name="iefonts_the-master-plan-apt-1.css" crc="3824530138" ref="the-master-plan-apt-1"/>
     <file name="the-penthouse-bg.css" crc="425427195" ref="the-penthouse-bg"/>
     <file name="nomq_the-penthouse-bg.css" crc="78405391" ref="the-penthouse-bg"/>
-    <file name="the-apartments.css" crc="4166830200" ref="the-apartments"/>
+    <file name="the-apartments.css" crc="531808768" ref="the-apartments"/>
     <file name="nomq_the-apartments.css" crc="4057262417" ref="the-apartments"/>
     <file name="iefonts_the-apartments.css" crc="3824530138" ref="the-apartments"/>
   </folder>
@@ -1075,14 +1075,14 @@
     <file name="floor plan apt 1_web-01-u278485-fr3.jpg" crc="166012357" ref="the-master-plan-apt-1-bg"/>
     <file name="floor plan apt 3_web-01-u278498-fr2.jpg" crc="4021988481" ref="the-master-plan-apt-1-bg"/>
   </folder>
-  <file name="index.html" crc="287197978" seo="true" mt="1581637156433" redirect="true"/>
-  <file name="the-master-plan-apt-1.html" crc="4118257143" seo="true" mt="1581637156433" redirect="true"/>
-  <file name="the-apartments.html" crc="172104365" seo="true" mt="1581637156433" redirect="true"/>
-  <file name="the-penthouse.html" crc="526530030" seo="true" mt="1581637156433" redirect="true"/>
-  <file name="location.html" crc="468624392" seo="true" mt="1581637156433" redirect="true"/>
-  <file name="the-development.html" crc="339428226" seo="true" mt="1581637156433" redirect="true"/>
-  <file name="the-gallery.html" crc="449473427" seo="true" mt="1581637156433" redirect="true"/>
-  <file name="about-us.html" crc="6363108" seo="true" mt="1581637156433" redirect="true"/>
+  <file name="index.html" crc="3780434546" seo="true" mt="1581638326598" redirect="true"/>
+  <file name="the-master-plan-apt-1.html" crc="3829918170" seo="true" mt="1581638326598" redirect="true"/>
+  <file name="the-apartments.html" crc="410258194" seo="true" mt="1581638326598" redirect="true"/>
+  <file name="the-penthouse.html" crc="456184245" seo="true" mt="1581638326598" redirect="true"/>
+  <file name="location.html" crc="4028659408" seo="true" mt="1581638326598" redirect="true"/>
+  <file name="the-development.html" crc="3926162111" seo="true" mt="1581638326598" redirect="true"/>
+  <file name="the-gallery.html" crc="34736929" seo="true" mt="1581638326598" redirect="true"/>
+  <file name="about-us.html" crc="3807323843" seo="true" mt="1581638326598" redirect="true"/>
   <file name="home-bg.html" crc="151589516" seo="true" mt="1581547957998" redirect="true"/>
   <file name="about-us-bg.html" crc="4186770302" seo="true" mt="1581547957998" redirect="true"/>
   <file name="the-development-bg.html" crc="209159884" seo="true" mt="1581547957998" redirect="true"/>
