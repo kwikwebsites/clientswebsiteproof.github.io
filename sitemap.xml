@@ -43,18 +43,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/images/ig-logo.svg</loc>
-    <lastmod>2020-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bigonideas.co.uk/images/facebook.svg</loc>
-    <lastmod>2020-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://bigonideas.co.uk/assets/money-back-guarantee.eps</loc>
     <lastmod>2020-01-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -73,37 +61,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/images/macbook-pro276x167.png</loc>
-    <lastmod>2020-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bigonideas.co.uk/images/bigonideas_logo%20portfolio_hedone193x193.png</loc>
-    <lastmod>2020-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bigonideas.co.uk/images/screen%20shot%202020-04-30%20at%20223659138x193.jpg</loc>
-    <lastmod>2020-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://bigonideas.co.uk/images/macbook-pro.png</loc>
     <lastmod>2020-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/images/macbook-pro225x137.png</loc>
+    <loc>http://bigonideas.co.uk/images/screen%20shot%202020-04-30%20at%20223659166x231.jpg</loc>
     <lastmod>2020-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/images/screen%20shot%202020-04-30%20at%20223659166x231.jpg</loc>
+    <loc>http://bigonideas.co.uk/images/macbook-pro225x137.png</loc>
     <lastmod>2020-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
