@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1588518365602">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1588519688480">
   <folder name="css">
-    <file name="site_global.css" crc="131828100"/>
-    <file name="index.css" crc="534081719" ref="index"/>
-    <file name="nomq_index.css" crc="4242538600" ref="index"/>
+    <file name="site_global.css" crc="279794321"/>
+    <file name="index.css" crc="450841546" ref="index"/>
+    <file name="nomq_index.css" crc="4273957962" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="untitled-2.css" crc="500960612" ref="untitled-2"/>
     <file name="nomq_untitled-2.css" crc="134194776" ref="untitled-2"/>
@@ -53,10 +53,11 @@
     <file name="bigonideas_logo portfolio_hedone-crop-u208807.png" crc="25897237" ref="index"/>
     <file name="screen shot 2018-06-16 at 201559-crop-u208057.png" crc="3762702285" ref="index"/>
     <file name="macbook-pro.png" crc="3912744375" seo="true" ref="index"/>
-    <file name="bigonideas_logo portfolio_hedone-crop-u208808.png" crc="344106546" ref="index"/>
-    <file name="screen shot 2018-06-16 at 201559-crop-u208058.png" crc="4161193284" ref="index"/>
+    <file name="bigonideas_logo portfolio_hedone-crop-u208808.png" crc="3911928975" ref="index"/>
+    <file name="screen shot 2018-06-16 at 201559-crop-u208058.png" crc="27869438" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:untitled-2"/>
+    <file name="macbook-pro248x150.png" crc="3984151869" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="377072656" seo="true" mt="1588518193370" redirect="true"/>
-  <file name="untitled-2.html" crc="4217387683" seo="true" mt="1588517682185" redirect="true"/>
+  <file name="index.html" crc="423997652" seo="true" mt="1588519540025" redirect="true"/>
+  <file name="untitled-2.html" crc="489427876" seo="true" mt="1588518926996" redirect="true"/>
 </manifest>
