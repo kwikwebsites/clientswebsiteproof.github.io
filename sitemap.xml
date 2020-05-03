@@ -2,37 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bigonideas.co.uk/index.html</loc>
-    <lastmod>2020-05-02</lastmod>
+    <lastmod>2020-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/images/bigonideas_logo-identity_white.svg</loc>
-    <lastmod>2020-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bigonideas.co.uk/images/screen%20shot%202020-04-30%20at%20223659200x279.jpg</loc>
-    <lastmod>2020-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bigonideas.co.uk/images/macbook-pro274x166.png</loc>
-    <lastmod>2020-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bigonideas.co.uk/images/okensi%20testimonials.jpg</loc>
-    <lastmod>2020-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bigonideas.co.uk/images/skinenrich%20testimonials.jpg</loc>
-    <lastmod>2020-05-02</lastmod>
+    <loc>http://bigonideas.co.uk/untitled-2.html</loc>
+    <lastmod>2020-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -43,38 +19,80 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/images/macbook-pro202x123.png</loc>
-    <lastmod>2020-05-02</lastmod>
+    <loc>http://bigonideas.co.uk/images/macbook-pro274x166.png</loc>
+    <lastmod>2020-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/images/screen%20shot%202020-04-30%20at%20223659.jpg</loc>
-    <lastmod>2020-05-02</lastmod>
+    <loc>http://bigonideas.co.uk/images/okensi%20testimonials.jpg</loc>
+    <lastmod>2020-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bigonideas.co.uk/images/macbook-pro.png</loc>
-    <lastmod>2020-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bigonideas.co.uk/images/screen%20shot%202020-04-30%20at%20223659166x231.jpg</loc>
-    <lastmod>2020-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bigonideas.co.uk/images/macbook-pro225x137.png</loc>
-    <lastmod>2020-05-02</lastmod>
+    <loc>http://bigonideas.co.uk/images/skinenrich%20testimonials.jpg</loc>
+    <lastmod>2020-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bigonideas.co.uk/images/screen%20shot%202020-04-30%20at%20223659160x224.jpg</loc>
-    <lastmod>2020-05-02</lastmod>
+    <lastmod>2020-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/bigonideas_logo-identity_white.svg</loc>
+    <lastmod>2020-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/screen%20shot%202020-04-30%20at%20223659200x279.jpg</loc>
+    <lastmod>2020-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/macbook-pro.png</loc>
+    <lastmod>2020-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/screen%20shot%202020-04-30%20at%20223659166x231.jpg</loc>
+    <lastmod>2020-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/macbook-pro225x137.png</loc>
+    <lastmod>2020-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/macbook-pro267x162.png</loc>
+    <lastmod>2020-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/screen%20shot%202020-04-30%20at%20223659197x275.jpg</loc>
+    <lastmod>2020-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/macbook-pro202x123.png</loc>
+    <lastmod>2020-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bigonideas.co.uk/images/screen%20shot%202020-04-30%20at%20223659.jpg</loc>
+    <lastmod>2020-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
