@@ -1,11 +1,12 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1588509739052">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1588516469153">
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3870921485" ref="index"/>
-    <file name="nomq_index.css" crc="4243002740" ref="index"/>
+    <file name="site_global.css" crc="275104075"/>
+    <file name="index.css" crc="4174491632" ref="index"/>
+    <file name="nomq_index.css" crc="4242538600" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="untitled-2.css" crc="4237199906" ref="untitled-2"/>
+    <file name="untitled-2.css" crc="500960612" ref="untitled-2"/>
     <file name="nomq_untitled-2.css" crc="134194776" ref="untitled-2"/>
+    <file name="iefonts_untitled-2.css" crc="3824530138" ref="untitled-2"/>
   </folder>
   <folder name="assets">
     <file name="money-back-guarantee.eps" crc="333956704" seo="true" mt="1578836608000"/>
@@ -21,43 +22,41 @@
     <file name="require.js" crc="4159430777" ref="index:untitled-2"/>
   </folder>
   <folder name="images">
-    <file name="bigonideas_hero image.jpg" crc="3917608870" ref="index"/>
+    <file name="bigonideas_hero image 70-.jpg" crc="4076257840" ref="index"/>
     <file name="bigonideas_logo-identity_white.svg" crc="75937941" seo="true" ref="index"/>
     <file name="bigonideas_logo identity_white_poster_.png" crc="178518021" ref="index"/>
-    <file name="screen shot 2020-04-30 at 223659200x279.jpg" crc="4209434935" seo="true" ref="index"/>
-    <file name="screen shot 2018-06-16 at 201559-crop-u20805.png" crc="106404696" ref="index"/>
+    <file name="screen shot 2020-04-30 at 223659.png" crc="14958343" seo="true" ref="index"/>
+    <file name="screen shot 2018-06-16 at 201559-crop-u20805.png" crc="3870998562" ref="index"/>
     <file name="macbook-pro274x166.png" crc="25822184" seo="true" ref="index"/>
     <file name="bigonideas_logo portfolio_hedone-crop-u20880.png" crc="380228973" ref="index"/>
-    <file name="okensi testimonials.jpg" crc="251687163" seo="true" ref="index"/>
+    <file name="okensi testimonials.jpg" crc="4215711057" seo="true" ref="index"/>
     <file name="skinenrich testimonials.jpg" crc="469247506" seo="true" ref="index"/>
-    <file name="screen shot 2018-06-16 at 201559-crop-u208052.png" crc="106404696" ref="index"/>
+    <file name="bigonideas_hero image 70--u7001-fr.jpg" crc="238571925" ref="index"/>
+    <file name="screen shot 2018-06-16 at 201559-crop-u208052.png" crc="3870998562" ref="index"/>
     <file name="bigonideas_logo portfolio_hedone-crop-u208802.png" crc="380228973" ref="index"/>
-    <file name="bigonideas_hero image-u7001-fr.jpg" crc="4156107752" ref="index"/>
-    <file name="screen shot 2020-04-30 at 223659160x224.jpg" crc="3997592206" seo="true" ref="index"/>
-    <file name="screen shot 2018-06-16 at 201559-crop-u208053.png" crc="3816506012" ref="index"/>
+    <file name="bigonideas_hero image 70--u7001-fr2.jpg" crc="4111426113" ref="index"/>
+    <file name="screen shot 2018-06-16 at 201559-crop-u208053.png" crc="519977490" ref="index"/>
     <file name="macbook-pro202x123.png" crc="366553792" seo="true" ref="index"/>
     <file name="bigonideas_logo portfolio_hedone-crop-u208803.png" crc="170876196" ref="index"/>
-    <file name="bigonideas_hero image-u7001-fr2.jpg" crc="244004791" ref="index"/>
-    <file name="screen shot 2020-04-30 at 223659.jpg" crc="304448618" seo="true" ref="index"/>
-    <file name="screen shot 2018-06-16 at 201559-crop-u208054.png" crc="3934316568" ref="index"/>
-    <file name="macbook-pro.png" crc="3941393609" seo="true" ref="index"/>
+    <file name="bigonideas_hero image 70--u7001-fr3.jpg" crc="4189866259" ref="index"/>
+    <file name="screen shot 2018-06-16 at 201559-crop-u208054.png" crc="3845271572" ref="index"/>
+    <file name="macbook-pro276x167.png" crc="3941393609" seo="true" ref="index"/>
     <file name="bigonideas_logo portfolio_hedone-crop-u208804.png" crc="126852847" ref="index"/>
-    <file name="bigonideas_hero image-u7001-fr3.jpg" crc="194674674" ref="index"/>
+    <file name="bigonideas_hero image 70--u7001-fr4.jpg" crc="45887752" ref="index"/>
     <file name="bigonideas_logo portfolio_hedone-crop-u208805.png" crc="344106546" ref="index"/>
-    <file name="screen shot 2020-04-30 at 223659166x231.jpg" crc="293299841" seo="true" ref="index"/>
-    <file name="screen shot 2018-06-16 at 201559-crop-u208055.png" crc="313222857" ref="index"/>
+    <file name="screen shot 2018-06-16 at 201559-crop-u208055.png" crc="4161193284" ref="index"/>
     <file name="macbook-pro225x137.png" crc="3998129914" seo="true" ref="index"/>
-    <file name="bigonideas_hero image-u7001-fr4.jpg" crc="4189442670" ref="index"/>
+    <file name="bigonideas_hero image 70--u7001-fr5.jpg" crc="4164794899" ref="index"/>
     <file name="bigonideas_logo portfolio_hedone-crop-u208806.png" crc="105154469" ref="index"/>
-    <file name="screen shot 2018-06-16 at 201559-crop-u208056.png" crc="486921030" ref="index"/>
+    <file name="screen shot 2018-06-16 at 201559-crop-u208056.png" crc="115245646" ref="index"/>
     <file name="macbook-pro267x162.png" crc="56729389" seo="true" ref="index"/>
-    <file name="screen shot 2020-04-30 at 223659197x275.jpg" crc="4282105116" seo="true" ref="index"/>
-    <file name="bigonideas_logo portfolio_hedone-crop-u208807.png" crc="344106546" ref="index"/>
-    <file name="screen shot 2018-06-16 at 201559-crop-u208057.png" crc="313222857" ref="index"/>
+    <file name="screen shot 2018-06-16 at 201559-crop-u208057.png" crc="3762702285" ref="index"/>
+    <file name="macbook-pro.png" crc="3912744375" seo="true" ref="index"/>
+    <file name="bigonideas_logo portfolio_hedone-crop-u208807.png" crc="25897237" ref="index"/>
     <file name="bigonideas_logo portfolio_hedone-crop-u208808.png" crc="344106546" ref="index"/>
-    <file name="screen shot 2018-06-16 at 201559-crop-u208058.png" crc="313222857" ref="index"/>
+    <file name="screen shot 2018-06-16 at 201559-crop-u208058.png" crc="4161193284" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:untitled-2"/>
   </folder>
-  <file name="index.html" crc="3892585599" seo="true" mt="1588509641175" redirect="true"/>
-  <file name="untitled-2.html" crc="422768106" seo="true" mt="1588509204241" redirect="true"/>
+  <file name="index.html" crc="3808403718" seo="true" mt="1588516365987" redirect="true"/>
+  <file name="untitled-2.html" crc="448624201" seo="true" mt="1588515342115" redirect="true"/>
 </manifest>
