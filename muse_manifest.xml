@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1588542658410">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1588605402841">
   <folder name="css">
-    <file name="site_global.css" crc="478192145"/>
-    <file name="index.css" crc="3855451306" ref="index"/>
-    <file name="nomq_index.css" crc="4254790719" ref="index"/>
+    <file name="site_global.css" crc="3812673501"/>
+    <file name="index.css" crc="4271475775" ref="index"/>
+    <file name="nomq_index.css" crc="529484039" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="untitled-2.css" crc="500960612" ref="untitled-2"/>
     <file name="nomq_untitled-2.css" crc="134194776" ref="untitled-2"/>
     <file name="iefonts_untitled-2.css" crc="3824530138" ref="untitled-2"/>
-    <file name="portfolio-ii.css" crc="3910419657" ref="portfolio-ii"/>
-    <file name="nomq_portfolio-ii.css" crc="4203532219" ref="portfolio-ii"/>
+    <file name="portfolio-ii.css" crc="480033992" ref="portfolio-ii"/>
+    <file name="nomq_portfolio-ii.css" crc="427933139" ref="portfolio-ii"/>
     <file name="iefonts_portfolio-ii.css" crc="3824530138" ref="portfolio-ii"/>
     <file name="portfolio.css" crc="4276984206" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="366915253" ref="portfolio"/>
@@ -29,7 +29,7 @@
   </folder>
   <folder name="images">
     <file name="bigonideas_hero image 70-.jpg" crc="4076257840" ref="index"/>
-    <file name="bigonideas_logo-identity_white.svg" crc="75937941" seo="true" ref="index:portfolio-ii"/>
+    <file name="bigonideas_logo-identity_white.svg" crc="75937941" seo="true" ref="index"/>
     <file name="bigonideas_logo identity_white_poster_.png" crc="178518021" ref="index"/>
     <file name="screen shot 2020-04-30 at 223659.png" crc="14958343" seo="true" ref="index"/>
     <file name="screen shot 2018-06-16 at 201559-crop-u20805.png" crc="3773432039" ref="index"/>
@@ -37,6 +37,10 @@
     <file name="bigonideas_logo portfolio_hedone-crop-u20880.png" crc="380228973" ref="index"/>
     <file name="okensi testimonials.jpg" crc="4215711057" seo="true" ref="index"/>
     <file name="skinenrich testimonials.jpg" crc="469247506" seo="true" ref="index"/>
+    <file name="ig-logo.svg" crc="3885675902" seo="true" ref="index:portfolio-ii"/>
+    <file name="ig logo_poster_.png" crc="509886281" ref="index"/>
+    <file name="facebook.svg" crc="462604197" seo="true" ref="index:portfolio-ii"/>
+    <file name="facebook_poster_.png" crc="75730287" ref="index"/>
     <file name="bigonideas_hero image 70--u7001-fr.jpg" crc="238571925" ref="index"/>
     <file name="screen shot 2018-06-16 at 201559-crop-u208052.png" crc="3773432039" ref="index"/>
     <file name="bigonideas_logo portfolio_hedone-crop-u208802.png" crc="380228973" ref="index"/>
@@ -56,19 +60,14 @@
     <file name="bigonideas_logo portfolio_hedone-crop-u208806.png" crc="105154469" ref="index"/>
     <file name="screen shot 2018-06-16 at 201559-crop-u208056.png" crc="4187981696" ref="index"/>
     <file name="macbook-pro267x162.png" crc="56729389" seo="true" ref="index"/>
-    <file name="bigonideas_logo portfolio_hedone-crop-u208807.png" crc="25897237" ref="index"/>
     <file name="screen shot 2018-06-16 at 201559-crop-u208057.png" crc="3871326201" ref="index"/>
-    <file name="macbook-pro.png" crc="4000345557" seo="true" ref="portfolio"/>
-    <file name="bigonideas_logo portfolio_hedone-crop-u208808.png" crc="3911928975" ref="index"/>
+    <file name="macbook-pro315x191.png" crc="3912744375" seo="true" ref="index"/>
+    <file name="bigonideas_logo portfolio_hedone-crop-u208807.png" crc="25897237" ref="index"/>
     <file name="screen shot 2018-06-16 at 201559-crop-u208058.png" crc="179947977" ref="index"/>
     <file name="macbook-pro248x150.png" crc="3984151869" seo="true" ref="index"/>
+    <file name="bigonideas_logo portfolio_hedone-crop-u208808.png" crc="3911928975" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:untitled-2:portfolio:portfolio-ii"/>
-    <file name="ig-logo.svg" crc="3885675902" seo="true" ref="index:portfolio-ii"/>
-    <file name="ig logo_poster_.png" crc="509886281" ref="index"/>
-    <file name="facebook.svg" crc="462604197" seo="true" ref="index:portfolio-ii"/>
-    <file name="facebook_poster_.png" crc="75730287" ref="index"/>
-    <file name="macbook-pro315x191.png" crc="3912744375" seo="true" ref="index"/>
-    <file name="bigonideas_logo-identity_black.svg" crc="4020172194" seo="true" ref="portfolio"/>
+    <file name="bigonideas_logo-identity_black.svg" crc="4020172194" seo="true" ref="portfolio:portfolio-ii"/>
     <file name="bigonideas_logo identity_black_poster_.png" crc="364228927" ref="portfolio"/>
     <file name="deeply, madly, arty_logo.png" crc="209963864" seo="true" ref="portfolio:portfolio-ii"/>
     <file name="untitled-4-01.png" crc="510515057" seo="true" ref="portfolio:portfolio-ii"/>
@@ -114,6 +113,7 @@
     <file name="bigonideas_logo portfolio cxinlaw-crop-u295525.png" crc="4197697110" ref="portfolio"/>
     <file name="mind the gap_promo flyer-01-crop-u300015.png" crc="189717745" ref="portfolio"/>
     <file name="screen shot 2018-06-16 at 201559-crop-u287045.png" crc="3904642756" ref="portfolio"/>
+    <file name="macbook-pro.png" crc="4000345557" seo="true" ref="portfolio"/>
     <file name="going gardens - project 2017 6pp a4_page_2360x177.jpg" crc="242689029" seo="true" ref="portfolio"/>
     <file name="nina anna lingerie_banner-crop-u300486.png" crc="3823803449" ref="portfolio"/>
     <file name="screen shot 2018-06-16 at 201559-crop-u287046.png" crc="3872126916" ref="portfolio"/>
@@ -144,16 +144,16 @@
     <file name="deeply madly arty_promo flyer-01-crop-u31605.png" crc="4022058421" ref="portfolio-ii"/>
     <file name="going gardens - project 2017 6pp a4_page_2-crop-u31585.png" crc="3909671532" ref="portfolio-ii"/>
     <file name="bigonideas_logo portfolio cxinlaw-crop-u31602.png" crc="4197697110" ref="portfolio-ii"/>
-    <file name="mind the gap_promo flyer-01-crop-u31612.png" crc="189717745" ref="portfolio-ii"/>
     <file name="jki group_promo flyer-01-crop-u31595.png" crc="13922944" ref="portfolio-ii"/>
+    <file name="mind the gap_promo flyer-01-crop-u31612.png" crc="189717745" ref="portfolio-ii"/>
     <file name="nina anna lingerie_banner-crop-u316152.png" crc="3823803449" ref="portfolio-ii"/>
     <file name="screen shot 2018-06-16 at 201559-crop-u315782.png" crc="3872126916" ref="portfolio-ii"/>
     <file name="bigonideas_logo portfolio simple me-crop-u315982.png" crc="265015450" ref="portfolio-ii"/>
     <file name="deeply madly arty_promo flyer-01-crop-u316052.png" crc="4022058421" ref="portfolio-ii"/>
     <file name="going gardens - project 2017 6pp a4_page_2-crop-u315852.png" crc="3909671532" ref="portfolio-ii"/>
     <file name="bigonideas_logo portfolio cxinlaw-crop-u316022.png" crc="4197697110" ref="portfolio-ii"/>
-    <file name="mind the gap_promo flyer-01-crop-u316122.png" crc="189717745" ref="portfolio-ii"/>
     <file name="jki group_promo flyer-01-crop-u315952.png" crc="13922944" ref="portfolio-ii"/>
+    <file name="mind the gap_promo flyer-01-crop-u316122.png" crc="189717745" ref="portfolio-ii"/>
     <file name="untitled-4-01209x297.png" crc="3794817745" seo="true" ref="portfolio-ii"/>
     <file name="nina anna lingerie_banner-crop-u316153.png" crc="4252856652" ref="portfolio-ii"/>
     <file name="screen shot 2018-06-16 at 201559-crop-u315783.png" crc="150491467" ref="portfolio-ii"/>
@@ -173,8 +173,8 @@
     <file name="bigonideas_logo portfolio simple me-crop-u315984.png" crc="467443959" ref="portfolio-ii"/>
     <file name="deeply madly arty_promo flyer-01-crop-u316054.png" crc="4221166538" ref="portfolio-ii"/>
     <file name="going gardens - project 2017 6pp a4_page_2-crop-u315854.png" crc="45813593" ref="portfolio-ii"/>
-    <file name="mind the gap_promo flyer-01-crop-u316124.png" crc="78688463" ref="portfolio-ii"/>
     <file name="jki group_promo flyer-01-crop-u315954.png" crc="4219590725" ref="portfolio-ii"/>
+    <file name="mind the gap_promo flyer-01-crop-u316124.png" crc="78688463" ref="portfolio-ii"/>
     <file name="nina anna lingerie_banner-crop-u316155.png" crc="3792666445" ref="portfolio-ii"/>
     <file name="bigonideas_logo portfolio simple me-crop-u315985.png" crc="38044442" ref="portfolio-ii"/>
     <file name="screen shot 2018-06-16 at 201559-crop-u315785.png" crc="3927467574" ref="portfolio-ii"/>
@@ -202,12 +202,12 @@
     <file name="screen shot 2018-06-16 at 201559-crop-u315788.png" crc="294147254" ref="portfolio-ii"/>
     <file name="macbook-pro228x139.png" crc="3994883924" seo="true" ref="portfolio-ii"/>
     <file name="deeply madly arty_promo flyer-01-crop-u316058.png" crc="4022058421" ref="portfolio-ii"/>
-    <file name="bigonideas_logo portfolio cxinlaw-crop-u316028.png" crc="4292196028" ref="portfolio-ii"/>
+    <file name="bigonideas_logo portfolio cxinlaw-crop-u316028.png" crc="143909659" ref="portfolio-ii"/>
     <file name="jki group_promo flyer-01-crop-u315956.png" crc="155909381" ref="portfolio-ii"/>
     <file name="mind the gap_promo flyer-01-crop-u316128.png" crc="113449428" ref="portfolio-ii"/>
   </folder>
-  <file name="index.html" crc="135161521" seo="true" mt="1588542510508" redirect="true"/>
-  <file name="untitled-2.html" crc="519195367" seo="true" mt="1588521866678" redirect="true"/>
-  <file name="portfolio.html" crc="423848211" seo="true" mt="1588532898120" redirect="true"/>
-  <file name="portfolio-ii.html" crc="94589580" seo="true" mt="1588542033259" redirect="true"/>
+  <file name="index.html" crc="452806618" seo="true" mt="1588605102636" redirect="true"/>
+  <file name="untitled-2.html" crc="4163230308" seo="true" mt="1588605257742" redirect="true"/>
+  <file name="portfolio.html" crc="3898997401" seo="true" mt="1588605253615" redirect="true"/>
+  <file name="portfolio-ii.html" crc="4262320180" seo="true" mt="1588605125258" redirect="true"/>
 </manifest>
