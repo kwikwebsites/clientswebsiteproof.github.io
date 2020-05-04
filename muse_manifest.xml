@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1588605402841">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1588623167097">
   <folder name="css">
-    <file name="site_global.css" crc="3812673501"/>
-    <file name="index.css" crc="4271475775" ref="index"/>
-    <file name="nomq_index.css" crc="529484039" ref="index"/>
+    <file name="site_global.css" crc="217475150"/>
+    <file name="index.css" crc="375925028" ref="index"/>
+    <file name="nomq_index.css" crc="3852742771" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="untitled-2.css" crc="500960612" ref="untitled-2"/>
     <file name="nomq_untitled-2.css" crc="134194776" ref="untitled-2"/>
     <file name="iefonts_untitled-2.css" crc="3824530138" ref="untitled-2"/>
-    <file name="portfolio-ii.css" crc="480033992" ref="portfolio-ii"/>
-    <file name="nomq_portfolio-ii.css" crc="427933139" ref="portfolio-ii"/>
+    <file name="portfolio-ii.css" crc="173431657" ref="portfolio-ii"/>
+    <file name="nomq_portfolio-ii.css" crc="309565994" ref="portfolio-ii"/>
     <file name="iefonts_portfolio-ii.css" crc="3824530138" ref="portfolio-ii"/>
     <file name="portfolio.css" crc="4276984206" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="366915253" ref="portfolio"/>
@@ -206,8 +206,8 @@
     <file name="jki group_promo flyer-01-crop-u315956.png" crc="155909381" ref="portfolio-ii"/>
     <file name="mind the gap_promo flyer-01-crop-u316128.png" crc="113449428" ref="portfolio-ii"/>
   </folder>
-  <file name="index.html" crc="452806618" seo="true" mt="1588605102636" redirect="true"/>
-  <file name="untitled-2.html" crc="4163230308" seo="true" mt="1588605257742" redirect="true"/>
-  <file name="portfolio.html" crc="3898997401" seo="true" mt="1588605253615" redirect="true"/>
-  <file name="portfolio-ii.html" crc="4262320180" seo="true" mt="1588605125258" redirect="true"/>
+  <file name="index.html" crc="4135537703" seo="true" mt="1588622418871" redirect="true"/>
+  <file name="untitled-2.html" crc="68899324" seo="true" mt="1588605257742" redirect="true"/>
+  <file name="portfolio.html" crc="159514735" seo="true" mt="1588605253615" redirect="true"/>
+  <file name="portfolio-ii.html" crc="3969397870" seo="true" mt="1588620856994" redirect="true"/>
 </manifest>
