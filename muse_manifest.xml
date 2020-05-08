@@ -1,18 +1,18 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1588882810212">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bigonideas.co.uk" resolutions="1x" timestamp="1588960484526">
   <folder name="css">
     <file name="site_global.css" crc="3896617879"/>
-    <file name="index.css" crc="4142252280" ref="index"/>
-    <file name="nomq_index.css" crc="4254457642" ref="index"/>
+    <file name="just-for-you-branding---marketing---websites--book-a-free-30-minute-branding-consultation.css" crc="380695977" ref="just-for-you-branding---marketing---websites--book-a-free-30-minute-branding-consultation"/>
+    <file name="nomq_just-for-you-branding---marketing---websites--book-a-free-30-minute-branding-consultation.css" crc="144101182" ref="just-for-you-branding---marketing---websites--book-a-free-30-minute-branding-consultation"/>
+    <file name="iefonts_just-for-you-branding---marketing---websites--book-a-free-30-minute-branding-consultation.css" crc="3824530138" ref="just-for-you-branding---marketing---websites--book-a-free-30-minute-branding-consultation"/>
+    <file name="index.css" crc="387244072" ref="index"/>
+    <file name="nomq_index.css" crc="4114076423" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="portfolio.css" crc="468118461" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="161684686" ref="portfolio"/>
-    <file name="iefonts_portfolio.css" crc="3824530138" ref="portfolio"/>
-    <file name="untitled-2.css" crc="81478926" ref="untitled-2"/>
+    <file name="untitled-2.css" crc="468070542" ref="untitled-2"/>
     <file name="nomq_untitled-2.css" crc="134194776" ref="untitled-2"/>
     <file name="iefonts_untitled-2.css" crc="3824530138" ref="untitled-2"/>
-    <file name="just-for-you-branding---marketing---websites--book-a-free-30-minute-branding-consultation.css" crc="4245768687" ref="just-for-you-branding---marketing---websites--book-a-free-30-minute-branding-consultation"/>
-    <file name="nomq_just-for-you-branding---marketing---websites--book-a-free-30-minute-branding-consultation.css" crc="151400435" ref="just-for-you-branding---marketing---websites--book-a-free-30-minute-branding-consultation"/>
-    <file name="iefonts_just-for-you-branding---marketing---websites--book-a-free-30-minute-branding-consultation.css" crc="3824530138" ref="just-for-you-branding---marketing---websites--book-a-free-30-minute-branding-consultation"/>
+    <file name="portfolio.css" crc="127518294" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="366915253" ref="portfolio"/>
+    <file name="iefonts_portfolio.css" crc="3824530138" ref="portfolio"/>
   </folder>
   <folder name="assets">
     <file name="money-back-guarantee.eps" crc="333956704" seo="true" mt="1578836608000"/>
@@ -213,8 +213,8 @@
     <file name="jki group_promo flyer-01-crop-u315956.png" crc="155909381" ref="just-for-you-branding---marketing---websites--book-a-free-30-minute-branding-consultation"/>
     <file name="mind the gap_promo flyer-01-crop-u316128.png" crc="113449428" ref="just-for-you-branding---marketing---websites--book-a-free-30-minute-branding-consultation"/>
   </folder>
-  <file name="index.html" crc="37540756" seo="true" mt="1588882265891" redirect="true"/>
-  <file name="untitled-2.html" crc="4208434790" seo="true" mt="1588793912107" redirect="true"/>
-  <file name="portfolio.html" crc="3765459397" seo="true" mt="1588797755369" redirect="true"/>
-  <file name="just-for-you-branding---marketing---websites--book-a-free-30-minute-branding-consultation.html" crc="502394012" seo="true" mt="1588882653112" redirect="true"/>
+  <file name="index.html" crc="30148700" seo="true" mt="1588957212920" redirect="true"/>
+  <file name="untitled-2.html" crc="397171956" seo="true" mt="1588793912107" redirect="true"/>
+  <file name="portfolio.html" crc="428639839" seo="true" mt="1588797755369" redirect="true"/>
+  <file name="just-for-you-branding---marketing---websites--book-a-free-30-minute-branding-consultation.html" crc="399249087" seo="true" mt="1588956791924" redirect="true"/>
 </manifest>
